@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samsung Support Bot</title>
+    <style>
+        :root {
+            --primary-color: #007bff;
+            --light-gray: #f4f4f8;
+            --medium-gray: #e9ecef;
+            --dark-gray: #495057;
+            --font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+        }
+        body {
+            font-family: var(--font-family);
+            margin: 0;
+            background-color: var(--light-gray);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .chat-container {
+            width: 90%;
+            max-width: 600px;
+            height: 90vh;
+            max-height: 800px;
+            background-color: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+            display: flex;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        .chat-header {
+            background-color: var(--primary-color);
+            color: white;
+            padding: 16px;
+            font-size: 1.2rem;
+            font-weight: bold;
+            text-align: center;
+        }
+        .chat-messages {
+            flex-grow: 1;
+            padding: 20px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+        }
+        .message {
+            padding: 10px 15px;
+            border-radius: 18px;
+            max-width: 80%;
+            line-height: 1.5;
+        }
+        .user-message {
+            background-color: var(--primary-color);
+            color: white;
+            align-self: flex-end;
+            border-bottom-right-radius: 4px;
+        }
+        .bot-message {
+            background-color: var(--medium-gray);
+            color: var(--dark-gray);
+            align-self: flex-start;
+            border-bottom-left-radius: 4px;
+        }
+        .loading-indicator {
+            align-self: flex-start;
+            color: var(--dark-gray);
+            font-style: italic;
+        }
+        .chat-input-form {
+            display: flex;
+            padding: 15px;
+            border-top: 1px solid var(--medium-gray);
+            background-color: #fff;
+        }
+        #userInput {
+            flex-grow: 1;
+            border: 1px solid #ccc;
+            border-radius: 20px;
+            padding: 10px 15px;
+            font-size: 1rem;
+            outline: none;
+        }
+        #userInput:focus {
+            border-color: var(--primary-color);
+        }
+        #sendButton {
+            background-color: var(--primary-color);
+            color: white;
+            border: none;
+            border-radius: 50%;
+            width: 44px;
+            height: 44px;
+            margin-left: 10px;
+            font-size: 1.5rem;
+            cursor: pointer;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="chat-container">
+        <div class="chat-header">Samsung Product Support Bot</div>
+        <div class="chat-messages" id="chatMessages">
+             <div class="message bot-message">
+                Hello! How can I help you with your Samsung microwave, washing machine, or fridge today?
+            </div>
+        </div>
+        <form class="chat-input-form" id="chatForm">
+            <input type="text" id="userInput" placeholder="Ask a question..." autocomplete="off">
+            <button id="sendButton" type="submit">➤</button>
+        </form>
+    </div>
+
+    <script>
+        const chatForm = document.getElementById('chatForm');
+        const userInput = document.getElementById('userInput');
+        const chatMessages = document.getElementById('chatMessages');
+
+        chatForm.addEventListener('submit', async (e) => {
+            e.preventDefault();
+            const query = userInput.value.trim();
+            if (!query) return;
+
+            // 1. Display user's message
+            appendMessage(query, 'user-message');
+            userInput.value = '';
+
+            // 2. Show a loading indicator
+            const loadingIndicator = appendMessage('...', 'loading-indicator');
+
+            try {
+                // 3. Send the query to the backend
+                const response = await fetch('/ask', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ query: query })
+                });
+
+                if (!response.ok) {
+                    throw new Error('Network response was not ok');
+                }
+
+                const data = await response.json();
+                
+                // 4. Remove loading indicator and display bot's answer
+                loadingIndicator.remove();
+                appendMessage(data.answer, 'bot-message');
+
+            } catch (error) {
+                console.error('Error:', error);
+                loadingIndicator.remove();
+                appendMessage('Sorry, something went wrong. Please try again.', 'bot-message');
+            }
+        });
+
+        function appendMessage(text, className) {
+            const messageDiv = document.createElement('div');
+            messageDiv.className = `message ${className}`;
+            messageDiv.textContent = text;
+            chatMessages.appendChild(messageDiv);
+            // Scroll to the bottom
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+            return messageDiv;
+        }
+    </script>
+
+</body>
+</html>

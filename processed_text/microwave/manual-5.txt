@@ -1,0 +1,2132 @@
+CE76JD1
+CE76JD-B1
+CE76JD-CR1
+CE76JD-MB1
+CE76JD-MBR
+Microwave Oven
+imagine the possibilities
+Thank you for purchasing this Samsung product.
+Owner’s Instructions & Cooking Guide
+Please be advised that the Samsung warranty does NOT cover
+service calls to explain product operation, correct improper
+installation, or perform normal cleaning or maintenance.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 11 1144//77//22002233 1122::4488::1133 PPMM
+
+preparation contents
+safety instructions .........................................................................................3
+CONNECTING SMARTTHINGS (Wi-Fi MODEL ONLY)
+Important safety instructions .......................................................................3
+Correct Disposal of This Product (Waste Electrical & Electronic
+1. Launch a QR code reader app and scan the QR code Equipment) .......................................................................................................7
+image on the product. General safety ..................................................................................................7
+Microwave operation precautions ...............................................................8
+2. Try connecting the SmartThings app to the product.
+Limited warranty .............................................................................................8
+installation .....................................................................................................9
+Accessories .......................................................................................................9
+Installation site ................................................................................................9
+Turntable ..........................................................................................................9
+maintenance ...................................................................................................10
+Cleaning ............................................................................................................10
+Replacement (repair) .....................................................................................10
+REGISTERING THE PRODUCT / READING THE MANUAL / Care against an extended period of disuse ................................................10
+CONNECTING TO SERVICES oven features ..................................................................................................11
+Oven ...................................................................................................................11
+Control panel ...................................................................................................11
+1. Launch a QR code reader app and scan the QR code
+oven use ..........................................................................................................12
+image on the product.
+How a microwave oven works .......................................................................12
+Checking that your oven is operating correctly ........................................12
+Setting the time...............................................................................................13
+Cooking/Reheating .........................................................................................13
+Power levels .....................................................................................................14
+Adjusting the cooking time ...........................................................................14
+Stopping the cooking .....................................................................................14
+Setting the energy save mode ......................................................................15
+Using the power defrost feature ..................................................................15
+We provide online manuals that can be accessed via your smartphone Using the power defrost settings .................................................................16
+or our website to contribute in reducing the usage of manuals in paper Using the keep warm feature .......................................................................16
+format, as part of efforts to save the Earth. Using the keep warm settings ......................................................................17
+Using the curd / dough proof features .......................................................17
+Using the auto cook feature ..........................................................................18
+Using the india’s best settings......................................................................19
+English - 2
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 22 1144//77//22002233 1122::4488::1133 PPMM
+
+English - 3
+01
+SAFETY
+INFORMATION
+safety instructions
+Using the tikka series settings .....................................................................21
+IMPORTANT SAFETY INSTRUCTIONS
+using the healthy cooking settings .............................................................23
+using the kid’s nutrition settings .................................................................25
+READ CAREFULLY AND KEEP FOR FUTURE
+Using the veggie settings ..............................................................................27
+Using the cafeteria settings ..........................................................................29 REFERENCE.
+Convection ........................................................................................................32
+Grilling ..............................................................................................................32 WARNING: If the door or door seals are damaged,
+Choosing the accessories ..............................................................................32 the oven must not be operated until it has been
+Combining microwave and grill ...................................................................33
+Combining microwave and convection .......................................................33 repaired by a competent person.
+Multistage cooking .........................................................................................34
+Switching the beeper off ...............................................................................35 WARNING: It is hazardous for anyone other than
+Safety-locking your microwave oven ..........................................................35 a competent person to carry out any service or
+cookware guide ..............................................................................................36
+repair operation that involves the removal of a
+cooking guide .................................................................................................37
+troubleshooting .............................................................................................46 cover which gives protection against exposure to
+Checkpoints ......................................................................................................46
+microwave energy.
+Information codes ..........................................................................................50
+technical specifications ................................................................................50 WARNING: Liquids and other foods must not be
+heated in sealed containers since they are liable to
+explode.
+WARNING: Only allow children to use the oven
+without supervision when adequate instructions
+have been given so that the child is able to use the
+oven in a safe way and understands the hazards of
+improper use.
+This appliance is intended to be used in household
+only and it is not intended to be used such as:
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 33 1144//77//22002233 1122::4488::1133 PPMM
+
+• staff kitchen areas in shops, offices and other If smoke is observed (emitted), switch off or unplug
+working environments; the appliance and keep the door closed in order to
+• farm houses; stifle any flames.
+• by clients in hotels, motels and other residential Microwave heating of beverages can result in
+environments; delayed eruptive boiling, therefore care must be
+• bed and breakfast type environments. taken when handling the container.
+Only use utensils that are suitable for use in The contents of feeding bottles and baby food jars
+microwave ovens. shall be stirred or shaken and the temperature
+When heating food in plastic or paper containers, checked before consumption, in order to avoid
+keep an eye on the oven due to the possibility of burns.
+ignition. Eggs in their shell and whole hard-boiled eggs
+Metallic containers for food and beverages are not should not be heated in microwave ovens since they
+allowed during microwave cooking. may explode, even after microwave heating has
+Do not use this appliance for other purposes than ended.
+cooking. Drying of clothing and heating of warming The oven should be cleaned regularly and any food
+pads, slippers, sponges, damp cloth and similar may deposits removed.
+lead to risk of injury, ignition or fire. Failure to maintain the oven in a clean condition
+Use this appliance only for its intended use as could lead to deterioration of the surface that
+described in the manual. Do not put corrosive could adversely affect the life of the appliance and
+chemicals or vapors in or on this appliance. This possibly result in a hazardous situation.
+type of oven is specifically designed to heat, cook, The microwave oven is intended to be used on the
+or dry food. counter top (freestanding) use only, the microwave
+It is not designed for industrial or laboratory use. oven shall not be placed in a cabinet.
+English - 4
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 44 1144//77//22002233 1122::4488::1133 PPMM
+
+English - 5
+01
+SAFETY
+INFORMATION
+The appliance should not be cleaned with a water jet. This oven should be positioned proper direction and
+The appliance is not intended for installing in road height permitting easy access to cavity and control
+vehicles, caravans and similar vehicles etc. area.
+This appliance is not intended for use by persons Before using the your oven first time, oven should
+(including children) with reduced physical, sensory be operated with the water during 10 minute and
+or mental capabilities, or lack of experience then used.
+and knowledge, unless they have been given If the oven generates a strange noise, a burning
+supervision or instruction concerning use of the smell, or smoke is emitted, unplug the power plug
+appliance by a person responsible for their safety. immediately and contact your nearest service center.
+Children should be supervised to ensure that they The microwave oven has to be positioned so that
+do not play with the appliance. plug is accessible.
+This appliance can be used by children aged from WARNING: When the appliance is operated
+8 years and above and persons with reduced in the combination mode, children should
+physical, sensory or mental capabilities or lack of only use the oven under adult supervision
+experience and knowledge if they have been given due to the temperatures generated. During
+supervision or instruction concerning use of the use the appliance becomes hot. Care
+appliance in a safe way and understand the hazards should be taken to avoid touching heating
+involved. Children shall not play with the appliance. elements inside the oven.
+Cleaning and user maintenance shall not be made WARNING: Accessible parts may become
+by children without supervision. hot during use. Young children should be
+If the supply cord is damaged, it must be replaced kept away.
+by the manufacturer, its service agent or similarly
+qualified persons in order to avoid a hazard.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 55 1144//77//22002233 1122::4488::1133 PPMM
+
+Do not use harsh abrasive cleaners or sharp The temperature of accessible surfaces may
+metal scrapers to clean the oven door glass be high when the appliance is operating.
+since they can scratch the surface, which The surfaces are liable to get hot during
+may result in shattering of the glass. use.
+A steam cleaner is not to be used. The appliances are not intended to be
+WARNING: Ensure that the appliance is operated by means of an external timer or
+switched off before replacing the lamp to separate remote-control system.
+avoid the possibility of electric shock. This appliance can be used by children
+The appliance must not be installed aged from 8 years and above and persons
+behind a decorative door in order to avoid with reduced physical, sensory or mental
+overheating. capabilities or lack of experience and
+WARNING: The appliance and its accessible knowledge if they have been given
+parts become hot during use. Care should supervision or instruction concerning
+be taken to avoid touching heating use of the appliance in a safe way and
+elements. Children less than 8 years of age understand the hazards involved. Children
+shall be kept away unless continuously shall not play with the appliance. Cleaning
+supervised. and user maintenance shall not be made by
+children unless they are older than 8 and
+CAUTION: The cooking process has to be
+supervised. Keep the appliance and its cord
+supervised. A short term cooking process
+out of reach of children less than 8 years.
+has to be supervised continuously.
+The door or the outer surface may get hot
+when the appliance is operating.
+English - 6
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 66 1144//77//22002233 1122::4488::1133 PPMM
+
+English - 7
+01
+SAFETY
+INFORMATION
+CORRECT DISPOSAL OF THIS PRODUCT (WASTE Do not insert fingers or foreign substances. If foreign substances enter the
+ELECTRICAL & ELECTRONIC EQUIPMENT) oven, unplug the power cord and contact a local Samsung service centre.
+Do not apply excessive pressure or impact to the oven.
+(Applicable in countries with separate collection Do not place the oven over fragile objects.
+systems) Ensure the power voltage, frequency, and current matches the product
+This marking on the product, accessories or literature specifications.
+indicates that the product and its electronic accessories Firmly plug the power plug into the wall socket. Do not use multiple plug
+(e. g. charger, headset, and USB cable) should not be adapters, extension cords, or electric transformers.
+disposed of with other household waste at the end Do not hook the power cord on metal objects. Make sure the cord is between
+of their working life. To prevent possible harm to the objects or behind the oven.
+environment or the human health from uncontrolled Do not use a damaged power plug, power cord, or loose wall socket. For
+waste disposal, please separate these items from damaged power plugs or cords, contact a local Samsung service centre.
+other types of waste and recycle them responsibly to Do not pour or directly spray water onto the oven.
+promote the sustainable reuse of material resources. Do not place objects on the oven, inside, or on the oven door.
+Do not spray volatile materials such as insecticide on the oven.
+For more information on safe disposal and recycling visit our website. Do not store flammable materials in the oven. Because alcohol vapours
+www.samsung.com/in/support or contact our Helpline numbers- can contact hot parts of the oven, use caution when heating food or drinks
+1800 40 SAMSUNG(7267864) containing alcohol.
+1800 5 SAMSUNG(7267864) Children may bump themselves or catch their fingers on the door. When
+opening/closing the door, keep children away.
+This product is RoHS compliant
+GENERAL SAFETY Microwave warning
+Microwave heating of beverages may result in delayed eruptive boiling;
+Any modifications or repairs must be performed by qualified personnel only.
+always use caution when handling the container. Always allow beverages to
+Do not heat food or liquids sealed in containers for the microwave function.
+stand at least 20 seconds before handling. If necessary, stir during heating.
+Do not use benzene, thinner, alcohol, or steam or high-pressure cleaners to
+Always stir after heating.
+clean the oven.
+In the event of scalding, follow these First Aid instructions:
+Do not install the oven: near a heater or flammable material; locations that
+are humid, oily, dusty or exposed to direct sunlight or water; or where gas 1. Immerse the scalded area in cold water for at least 10 minutes.
+may leak; or an uneven surface. 2. Cover with a clean, dry dressing.
+This oven must be properly grounded in accordance with local and national 3. Do not apply any creams, oils, or lotions.
+codes. To avoid damaging the tray or rack, do not put the tray or rack in water
+Regularly use a dry cloth to remove foreign substances from the power plug shortly after cooking.
+terminals and contacts. Do not use the oven for deep fat frying because the oil temperature cannot
+Do not pull, excessively bend, or place heavy objects on the power cord. be controlled. This could result in a sudden boil over of hot oils.
+If there is a gas leak (propane, LP, etc) ventilate immediately. Do not touch
+the power cord.
+Do not touch the power cord with wet hands.
+While the oven is operating, do not turn it off by unplugging the power cord.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 77 1144//77//22002233 1122::4488::1133 PPMM
+
+Microwave oven precautions • Do not operate the oven if it is damaged. Only operate after it
+Only use microwave-safe utensils. Do not use metallic containers, gold or has been repaired by a qualified technician.
+silver trimmed dinnerware, skewers, etc. Important: the oven door must close properly. The door must
+Remove wire twist ties. Electric arcing may occur. not be bent; the door hinges must not be broken or loose; the
+Do not use the oven to dry papers or clothes. door seals and sealing surfaces must not be damaged.
+Use shorter times for small amounts of food to prevent overheating or • All adjustments or repairs must be done by a qualified
+burning. technician.
+Keep the power cord and power plug away from water and heat sources.
+LIMITED WARRANTY
+To avoid the risk of explosion, do not heat eggs with shells or hard-boiled
+eggs. Do not heat airtight or vacuum-sealed containers, nuts, tomatoes, etc. Samsung will charge a repair fee for replacing an accessory or repairing a
+Do not cover the ventilation slots with cloth or paper. This is a fire hazard. cosmetic defect if the damage to the unit or accessory was caused by the
+The oven may overheat and turn off automatically and will remain off until it customer. Items this stipulation covers include:
+cools sufficiently. • Door, handles, out-panel, or control panel that are dented, scratched, or
+Always use oven mitts when removing a dish. broken.
+Stir liquids halfway during heating or after heating ends and allow the liquid • A broken or missing tray, guide roller, coupler, or wire rack.
+stand at least 20 seconds after heating to prevent eruptive boiling. Use this oven only for its intended purpose as described in this instruction
+Stand at arms length from the oven when opening the door to avoid getting manual. Warnings and Important Safety Instructions in this manual do
+scalded by escaping hot air or steam. not cover all possible conditions and situations that may occur. It is your
+Do not operate the oven when it is empty. The oven will automatically shut responsibility to use common sense, caution, and care when installing,
+down for 30 minutes for safety purposes. We recommend placing a glass of maintaining, and operating your oven.
+water inside the oven at all times to absorb microwave energy in case the Because these following operating instructions cover various models, the
+oven is started accidentally. characteristics of your microwave oven may differ slightly from those
+Install the oven in compliance with the clearances in this manual. (See described in this manual and not all warning signs may be applicable. If you
+Installing your microwave oven.) have any questions or concerns, contact a local Samsung service centre or
+Use caution when connecting other electrical appliances to sockets near the find help and information online at www.samsung.com.
+oven. Use this oven for heating food only. It is intended for domestic use only. Do
+not heat any type of textiles or cushions filled with grains. The manufacturer
+MICROWAVE OPERATION PRECAUTIONS
+cannot be held liable for damage caused by improper or incorrect use of the
+Failure to observe the following safety precautions may result in harmful oven.
+exposure to microwave energy. To avoid deterioration of the oven surface and hazardous situations, always
+• Do not operate the oven with the door open. Do not tamper
+keep the oven clean and well maintained.
+with the safety interlocks (door latches). Do not insert
+anything into the safety interlock holes.
+• Do not place any object between the oven door and front
+face or allow food or cleaner residue to accumulate on sealing
+surfaces. Keep the door and door sealing surfaces clean by
+wiping with a damp cloth and then with a soft, dry cloth after
+each use.
+English - 8
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 88 1144//77//22002233 1122::4488::1133 PPMM
+
+English - 9
+02
+INSTALLATION
+installation INSTALLATION SITE
+• Select a flat, level surface approx. 85 cm above the
+2200 ccmm 1100 ccmm
+ACCESSORIES floor. The surface must support the weight of the
+aabboovvee bbeehhiinndd
+oven.
+Depending on the model that you have purchased, you are supplied with
+several accessories that can be used in a variety of ways. • Secure room for ventilation, at least 10 cm from the
+rear wall and both sides, and 20 cm from above. 8855 ccmm ooff 1100 ccmm oonn
+tthhee flfloooorr tthhee ssiiddee
+• Do not install the oven in hot or damp surroundings,
+1. Roller ring, to be placed in the centre of the oven. such as next to other microwave ovens or radiators.
+Purpose: The roller ring supports the turntable.
+• Conform to the power supply specifications of this oven. Use only
+approved extension cables if you need to use.
+2. Turntable, to be placed on the roller ring with the • Wipe the interior and the door seal with a damp cloth before using your
+centre fitting to the coupler. oven for the first time.
+Purpose: The turntable serves as the main cooking
+surface; it can be easily removed for TURNTABLE
+cleaning. Remove all packing materials inside the oven. Install the
+3. High rack, Low rack to be placed on the turntable. roller ring and turntable. Check that the turntable rotates
+Purpose: The metal racks can be used to cook two freely.
+dishes at the same time. A small dish may
+be placed on the turntable and a second
+dish on the rack.
+The metal racks can be used in grill,
+convection and combination cooking.
+DO NOT operate the microwave oven without the roller ring and
+turntable.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 99 1144//77//22002233 1122::4488::1144 PPMM
+
+maintenance REPLACEMENT (REPAIR)
+WARNING
+CLEANING This oven has no user-removable parts inside. Do not try to replace or
+repair the oven yourself.
+Clean the oven regularly to prevent impurities from building up on or inside
+the oven. Also pay special attention to the door, door sealing, and turntable • If you encounter a problem with hinges, sealing, and/or the door, contact
+and roller ring (applicable models only). a qualified technician or a local Samsung service centre for technical
+If the door won’t open or close smoothly, first check if the door seals assistance.
+have built up impurities. Use a soft cloth in soapy water to clean both • If you want to replace the light bulb, contact a local Samsung service
+the inner and outer sides of the oven. Rinse and dry well. centre. Do not replace it yourself.
+To remove stubborn impurities with bad smells from inside the • If you encounter a problem with the outer housing of the oven, first
+oven unplug the power cord from the power source, and then contact a local
+Samsung service centre.
+1. With an empty oven, put a cup of diluted lemon juice on the centre of the
+turntable.
+CARE AGAINST AN EXTENDED PERIOD OF DISUSE
+2. Heat the oven for 10 minutes at max power.
+If you don’t use the oven for an extended period of time, unplug the power
+3. When the cycle is complete, wait until the oven cools down. Then, open cord and move the oven to a dry, dust-free location. Dust and moisture that
+the door and clean the cooking chamber. builds up inside the oven may affect the performance of the oven.
+To clean inside swing-heater models
+To clean the upper area of the cooking chamber,
+lower the top heating element by 45° as shown.
+This will help clean the upper area. When done,
+reposition the top heating element.
+CAUTION
+• Keep the door and door sealing clean and ensure the door opens and
+closes smoothly. Otherwise, the oven’s lifecycle may be shortened.
+• Take caution not to spill water into the oven vents.
+• Do not use any abrasive or chemical substances for cleaning.
+• After each use of the oven, use a mild detergent to clean the cooking
+chamber after waiting for the oven to cool down.
+English - 10
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 1100 1144//77//22002233 1122::4488::1144 PPMM
+
+English - 11
+03
+MAINTENANCE
+&
+OVEN
+FEATURES
+oven features CONTROL PANEL
+OVEN
+1 2 3 4 5
+1 2 3
+4 5 6
+7 8 9
+10 11 12
+13 14 15
+6 7 8 9 10 11 12 16 17 18
+1. DOOR HANDLE 7. DOOR 19 20 21
+2. VENTILATION HOLES 8. TURNTABLE
+3. GRILL 9. COUPLER
+4. LIGHT 10. ROLLER RING
+5. DISPLAY 11. SAFETY INTERLOCK HOLES
+1. CURD/DOUGH PROOF BUTTON 12. MICROWAVE BUTTON
+6. DOOR LATCHES 12. CONTROL PANEL
+2. INDIA’S BEST BUTTON 13. MICROWAVE+CONVECTION
+3. TIKKA SERIES BUTTON BUTTON
+4. HEALTHY COOKING BUTTON 14. MICROWAVE+GRILL BUTTON
+5. CAFETERIA BUTTON 15. CLOCK BUTTON
+6. KID’S NUTRITION BUTTON 16. DOWN BUTTON
+7. POWER DEFROST BUTTON 17. SELECT BUTTON
+8. VEGGIE BUTTON 18. UP BUTTON
+9. KEEP WARM BUTTON 19. STOP/ECO BUTTON
+10. CONVECTION BUTTON 20. +30s BUTTON
+11. GRILL BUTTON 21. START BUTTON
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 1111 1144//77//22002233 1122::4488::1144 PPMM
+
+oven use CHECKING THAT YOUR OVEN IS OPERATING
+CORRECTLY
+HOW A MICROWAVE OVEN WORKS The following simple procedure enables you to check that your oven is
+Microwaves are high-frequency electromagnetic waves; the energy released working correctly at all times.
+enables food to be cooked or reheated without changing either the form or First, place a bowl of water on the turntable. Then, close the door.
+the colour.
+You can use your microwave oven to: 1. Operate the Microwave mode and set the time to 4
+or 5 minutes by pressing the Up and Down button
+• Defrost
+the appropriate number of times.
+• Reheat
+• Cook
+2. Press the START button.
+Cooking Principle.
+Result: The oven heats the water for 4 or 5
+1. The microwaves generated by the magnetron minutes. The water should then be boiling.
+reflected at cavity and are distributed uniformly as
+The oven must be plugged into an appropriate wall socket. The turntable
+the food rotates on the turntable. The food is thus
+must be in position in the oven. If a power level other than the maximum
+cooked evenly.
+is used, the water takes longer to boil.
+2. The microwaves are absorbed by the food up to
+a depth of about 1 inch (2.5 cm). Cooking then
+continues as the heat is dissipated within the food.
+3. Cooking times vary according to the container used
+and the properties of the food:
+• Quantity and density
+• Water content
+• Initial temperature (refrigerated or not)
+As the centre of the food is cooked by heat dissipation, cooking continues
+even when you have taken the food out of the oven. Standing times
+specified in recipes and in this booklet must therefore be respected to
+ensure:
+• Even cooking of the food right to the centre
+• The same temperature throughout the food
+English - 12
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 1122 1144//77//22002233 1122::4488::1144 PPMM
+
+English - 13
+04
+OVEN
+USE
+SETTING THE TIME COOKING/REHEATING
+Your microwave oven has an inbuilt clock. When power is supplied, “:0”, The following procedure explains how to cook or reheat food.
+“88:88” or “12:00” is automatically displayed on the display. ALWAYS check your cooking settings before leaving the oven unattended.
+Please set the current time. The time is displayed the 12-hour notation. You
+must set the clock: Open the door. Place the food in the centre of the turntable. Close the door.
+• When you first install your microwave oven Never switch the microwave oven on when it is empty.
+• After a power failure 1. Press the Microwave button.
+Do not forget to reset the clock when you switch to and from summer Result: The following indications are displayed:
+and winter time. (microwave mode)
+2. Press the Up or Down button until the appropriate
+1. Press the Clock button.
+power level is displayed.
+At that time, press the Select button to set the
+power level.
+2. Press the Up or Down button to set time display • If don't set the power level within 5 seconds,
+type (12H or 24H). At that time, press the Select Automatically changes to the cooking time
+button to set the display type. setting stage.
+3. Press the Up or Down button to set the hour. 3. Set the Cooking time by pressing the Up or Down
+button.
+Result: The cooking time is displayed.
+4. Press the Select button. 4. Press the START button.
+Result: The oven light comes on and the turntable
+starts rotating. Cooking starts and when it
+has finished:
+5. Press the Up or Down button to set the minute.
+• The oven beep and flash “End” 4
+times.
+The oven will then beep one time
+6. When the right time is displayed, press the Select per minute.
+button to start the clock.
+Result: The time is displayed whenever you are
+not using the microwave oven.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 1133 1144//77//22002233 1122::4488::1155 PPMM
+
+POWER LEVELS ADJUSTING THE COOKING TIME
+You can choose among the power levels and temperature below. You can adjust the cooking time by pressing the +30s.
+• Check how cooking is progressing at any time simply by opening the
+Output
+Power level door
+MWO GRILL CONVECTION • Increase the remaining cooking time
+HIGH 800 W - - To increase the cooking time of your food, press the
++30s button once for each 30 seconds that you wish to
+MEDIUM HIGH 600 W - -
+add.
+MEDIUM 450 W - - • Example: To add three minutes, press the +30s
+MEDIUM LOW 300 W - - button six times.
+DEFROST 180 W - - To adjust the cooking time by press the Up and Down
+button once for each 10 seconds that you wish to add
+LOW / KEEP WARM 100 W - - or reduce.
+GRILL - 1100 W -
+STOPPING THE COOKING
+600 W
+You can stop cooking at any time so that you can:
+COMBI 450 W 1100 W -
+• Check the food
+300 W
+• Turn the food over or stir it
+MAX: 1700 W • Leave it to stand
+CONVECTION - -
+(200 - 40 °C)
+To stop the cooking... Then...
+600 W
+Temporarily Temporarily : Open the door without pressing
+450 W
+MAX: 1700 W the STOP/ECO button or press the STOP/ECO
+COMBI I 300 W -
+(200 - 40 °C) button once when the oven is being operated.
+180 W
+Result: Cooking stops.
+100 W
+To resume cooking, close the door again and
+If you select higher power level, the cooking time must be decreased. press the START button.
+Completely Completely : Press the STOP/ECO button once.
+If you select lower power level, the cooking time must be increased.
+Result: Cooking stops.
+If you wish to cancel the cooking settings,
+press the STOP/ECO button again.
+English - 14
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 1144 1144//77//22002233 1122::4488::1155 PPMM
+
+English - 15
+04
+OVEN
+USE
+SETTING THE ENERGY SAVE MODE USING THE POWER DEFROST FEATURE
+The oven has an energy save mode. The Power Defrost feature enables you to defrost meat, poultry, fish, bread/
+cake and fruit. The defrost time and power level are set automatically.
+• Press the STOP/ECO button. (During Standby mode.) You simply select the programme and the weight.
+Result: Display off.
+First, place the frozen food in the centre of the turntable and close the door.
+• To remove energy save mode, open the door or
+press the STOP/ECO button and then display shows 1. Press the Power Defrost button.
+current time. The oven is ready for use.
+Auto energy saving function
+If you do not select any function when appliance is in the middle of 2. Select the type of food that you are cooking by
+setting or operating with temporary stop condition, function is canceled pressing the Up or Down button. Refer to the table
+and clock will be displayed after 25 minutes. on the following page for a description of the
+Oven Lamp will be turned off after 5 minutes with door open condition. various pre-programmed settings. At that time,
+press the Select button to select the type of food.
+3. Select the size of the serving by pressing the Up or
+Down button.
+4. Press the START button.
+Result:
+• Defrosting begins.
+• The oven beeps through defrosting
+to remind you to turn the food
+over.
+5. Press the START button again to finish defrosting.
+Result: When cooking has finished, the oven will
+beep and flash “End” 4 times. The oven
+will then beep one time per minute.
+You can also defrost food manually. To do so, select the microwave
+cooking/reheating function with a power level of 180 W. Refer to the
+section entitled “Cooking/Reheating” on page 13 for further details.
+Use only dishes that are microwave-safe.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 1155 1144//77//22002233 1122::4488::1155 PPMM
+
+USING THE POWER DEFROST SETTINGS
+The following table presents the various Power Defrost programmes, Code/Food Serving Size Instructions
+quantities and appropriate instructions. Remove all kind of package material
+5 100-500 g Spread fruits evenly into a flat glass dish.
+before defrosting. Place meat, poultry, fish and fruit on a flat glass plate or on
+Fruit This programme is suitable for all kind of
+a ceramic plate, arrange bread/cake on kitchen paper.
+fruits. Stand for 5-20 minutes.
+Code/Food Serving Size Instructions Select the Manual Defrosting function with a power level of 180 W if you
+want to defrost food manually. For further details on manual defrosting
+1 200-1500 g Shield the edges with aluminium foil. Turn
+and defrosting time, refer to the page 41-42.
+Meat the meat over, when the oven beeps. This
+programme is suitable for lamb, pork,
+USING THE KEEP WARM FEATURE
+steaks, chops, minced meat. Stand for 20-90
+minutes. Place the keep food warm in the centre of the turntable and close the door.
+2 200-1500 g Shield the leg and wing tips with aluminium
+1. Press the Keep Warm button.
+Poultry foil. Turn the poultry over, when the oven
+beeps. This programme is suitable for whole
+chicken as well as for chicken portions. Stand
+for 20-90 minutes. 2. Press the START button.
+3 200-1500 g Shield the tail of a whole fish with aluminium Result: The keep warm will be set 60mins.
+Fish foil. Turn the fish over, when the oven beeps. When keep warm time has finished, the
+This programme is suitable for whole fishes oven will beep and flash “End” 4 times.
+as well as for fish fillets. Stand for 20-80 The oven will then beep one time per
+minutes. minute.
+4 125-625 g Put bread horizontally on a piece of kitchen
+Bread/Cake paper and turn over, as soon as the oven
+beeps. Place cake on a ceramic plate and
+if possible, turn over, as soon as the oven
+beeps. (Oven keeps operating and is stopped,
+when you open the door). This programme
+is suitable for all kinds of bread, sliced
+or whole, as well as for bread rolls and
+baguettes. Arrange bread rolls in a circle.
+This programme is suitable for all kinds of
+yeast cake, biscuit, cheese cake and puff
+pastry. It is not suitable for short/crust
+pastry, fruit and cream cakes as well as for
+cake with chocolate topping. Stand for 10-
+60 minutes.
+English - 16
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 1166 1144//77//22002233 1122::4488::1155 PPMM
+
+English - 17
+04
+OVEN
+USE
+USING THE KEEP WARM SETTINGS USING THE CURD / DOUGH PROOF FEATURES
+The following table presents 4 items. It contains food, drink, bread and The 5 Curd / Dough Proof features provide pre-programmed cooking times.
+pastries and dishes/crockery. The convection heater operates only and it will You do not need to set either the cooking times or the power level.
+cycle on and off to keep food warm. Use oven gloves while taking out! You can adjust the Curd / Dough Proof category by pressing the Up or Down
+button after press the Curd / Dough Proof button.
+Item Example & Instructions
+First, place the food in the centre of the turntable and close the door.
+Food Roast meat, chicken, gratin, pizza, potatoes and plated
+meal 1. Press the Curd / Dough Proof button.
+Drink Water, milk and coffee
+Bread and Bread, toast, rolls, muffins and cake
+2. Select the type of food that you are cooking by Up
+pastries
+or Down button. No.1 is Curd and No.2 is Dough
+Dishes/Crockery Cup and ovenware Proof. You have to choose the number that you
+Distribute the crockery over the whole area of turn want to use for cooking by pressing the Up or Down
+table. button. Refer to the table on the following page
+Do not overload the oven. (Maximum load 5 kg) for a description of the various pre-programmed
+settings. At that time, press the Select button to
+Do not use this function to reheat cold foods.This programmes are for
+select the type of food.
+keeping food warm that has just been cooked.
+3. Select the size of the serving by pressing the Up or
+Do not recommend food being kept warm for too long (more than 1
+Down button.
+hour), as it will continue to cook. Warm food spoils more quickly.
+Cover liquids and foods which are high moisture contents. But if you
+4. Press the START button.
+want to keep crisp roast or fried foods, do not cover it.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 1177 1144//77//22002233 1122::4488::1166 PPMM
+
+USING THE AUTO COOK FEATURE
+The following table presents how to use the auto programme for rising yeast
+The Auto Cook feature (India’s Best, Tikka Series, Healthy Cooking, Kid’s
+dough or curd.
+Nutrition, Veggie, Cafeteria) has 60 pre-programmed cooking time. You do not
+1. Curd need to set either the cooking times or the power level.
+Serving First, place the food in the centre of the turntable and close the door.
+Code/Food Instructions
+Size
+1. Select the type of food that you are cooking by
+1-1 500 g Distribute 150 g curd into 5 microwave-safe pressing the Auto Cook (India’s Best, Tikka Series,
+Large Glass cups or small glass jars evenly (30 g each). Healthy Cooking, Cafeteria, Kid’s Nutrition, Veggie)
+Bowl Add 100 ml milk into each cup. Use long-life button once.
+milk (room-temperature; 3,5 % fat). Cover each
+2. Press the Up or Down button to select cook type.
+with cling film and set in a circle on turntable.
+After finish, keep 6 hours in a refrigerator.
+For the first time we recommend to use dried
+yoghurt bacteria ferment. 3. Press the START button.
+1-2 500 g Mix 150 g curd with 500 ml long-life milk Result: The food is cooked according to the
+Clay Pots (room-temperature; 3,5 % fat). Pour evenly preprogrammed setting selected.
+into large glass bowl. Cover with cling film When cooking has finished, the oven will
+and set on turntable. After finish, keep 6 beep and flash “End” 4 times. The oven
+hours in a refrigerator. will then beep one time per minute
+For the first time we recommend to use dried Use only recipients that are microwave-safe.
+yoghurt bacteria ferment.
+2. Dough Proof
+Serving
+Code/Food Instructions
+Size
+2-1 300-500 g Put dough in suitable sized bowl and set on
+Pizza Dough the low rack. Cover with aluminium foil.
+2-2 500-800 g Put dough in suitable sized bowl and set on
+Cake Dough the low rack. Cover with aluminium foil.
+2-3 600-900 g Put dough in suitable sized bowl and set on
+Bread the low rack. Cover with aluminium foil.
+Dough
+English - 18
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 1188 1144//77//22002233 1122::4488::1166 PPMM
+
+English - 19
+04
+OVEN
+USE
+USING THE INDIA’S BEST SETTINGS
+The following table presents the various India’s Best Programmes and Code/Food Serving Size Ingredients
+appropriate instructions.
+3 400-500 gm Bone Less Chicken – 350 gm, Chopped
+Code/Food Serving Size Ingredients Chicken onion – 1, Ginger Garlic Paste – 1 tsp, Kali
+Kali Mirch Mirch Powder (Pepper Powder) – 1 tsp,
+1 400-500 gm Surmai – 200 gm, Onions (Chopped) – 1, Salt , Lemon Juice,
+Fish Curry Tomato (Chopped) – 1, Water – 1 Cup, Oil – As per your taste
+Coconut + Milk – ½ Cup, Ginger Garlic Instructions
+Paste, Turmeric Powder, Red Chilli ,
+Marinate chicken with salt, lemon juice and kali mirch
+Powder,
+powder and keep for 1 hour. In microwave safe bowl
+Garam Masala, Salt – As per your taste,
+take oil, chopped onions, ginger garlic paste and put the
+Oil – As required.
+microwave safe bowl in Microwave and then press start.
+Instructions When beeps, add marinated chicken, little water and salt
+In microwave safe bowl take oil, chopped onions, ginger and put the microwave safe bowl in Microwave and cook.
+garlic paste and cook. When beeps, add all ingredients.
+4 400-500 gm Soaked Rice – 100 gm, Sugar – ½ cup,
+Mix well and after that put the microwave safe bowl and
+Sweet Rice Lemon Juice – 1 tsp, Dry Fruits – (As per
+cook.
+your taste), Cardamom Powder – (As per
+2 200-300 gm Tomato – 4, Onion (Chopped) – 1, your taste), Edible Yellow Color – ¼ tsp,
+Stuffed Paneer – ½ Cup, Coriander, Cumin Powder, Ghee – 2 tbsp, Water – 200 ml
+Tomato Salt & Sugar – As per your taste, Butter – 1
+Instructions
+tbsp
+In microwave safe bowl take ghee and soaked rice, water
+Instructions and cover with lid then press start. When beeps, add
+Cut tomatoes and scoop out the pulp to have plain tomato sugar, dry fruits, color and cardamom powder. Mix well
+cups. Grate paneer then mix coriander, cumin powder and and cook.
+the stuff the mixture with tomatoes. In Microwave safe
+Glass bowl add butter and chopped onions and press the
+start. When beeps, add tomatoes and cover it. Mix well
+and after that put the microwave safe bowl in microwave
+and cook.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 1199 1144//77//22002233 1122::4488::1166 PPMM
+
+Code/Food Serving Size Ingredients Code/Food Serving Size Ingredients
+5 400-500 gm Arhar Dal/ Red Gram – 100 gm, Oil – 2 Tb. 7 300-400 gm Small Pealed Potato – 8/10, Onion Grind –
+Sambhar Sp, Onion Chopped – 1, Tomato (Chopped) Kashmiri 2 No, Tomato Puri – 2, Ginger, Garlic Paste
+– 1, Mix Vegetables (drumsticks, Ghia / Aloo – 2 tbsp, Coriander Powder, Cumin Powder,
+Bottle Gourd Red Pumpkin, Brinjal, Ladies Turmeric Powder, Red Chili Powder, Garam
+Finger) – 1 cup, Mustard Seeds – 1 tbsp, Masala, Salt – As per your taste, Oil – 3
+Asafetida – ¼ tbsp, Tamarind Pulp, Cumin tbsp, Cream – ¼ Cup, Water – ½ Cup
+Seeds, Green Chili, Sambhar Masala, Salt – Instructions
+As required In microwave safe bowl take water add prick potatoes
+Instructions then press start. When beeps, in another bowl add oil,
+In microwave safe bowl put dal, turmeric powder, onions, onions and ginger-garlic paste, potato and all other
+green chilies, tomatoes, mixed vegetables and add some ingredients and cook.
+water, cover it in microwave and then press start. When 8 400-500 gm Kheema (chicken) – 200 gm, Chopped
+beeps, take microwave safe bowl take oil, safetida, and Kheema Onion – 1, Chopped Tomato – 1, Ginger
+cumin, curry leaves, red chilies, dal, sambhar masala, Masala Garlic Paste – 1 tsp, Turmeric, Salt, Red
+tamrind pulp, salt, water and put the microwave safe bowl Chili, Cumin Powder, Garam Masala – As
+in microwave then cook. per taste, Oil and Water – As required,
+6 400-500 gm Basmati rice (Soaked for 1 hour) – 200 Dhaniya – For Garnishing
+Chicken gm, Water – 500 ml, Ghee – 3 tbsp Cloves, Instructions
+Biryani Cardamom, Pepper Cinnamon, Tej Patta, In microwave safe glass bowl take kheema with water,
+Salt – As per your taste, Chicken – 200 gm, After that put the microwave safe bowl in microwave and
+Onion (chopped) – 1, Tomato (chopped) – 1 press start. When beeps, in microwave safe glass bowl
+Instructions take oil, chopped onion, tomato, ginger garlic paste and
+In microwave safe glass bowl add ghee, chicken, onions, all the masala. After that put the microwave safe bowl in
+tomatoes and all masala and soaked rice and put the microwave and cook. When beep, add boiled kheema to
+microwave safe bowl in microwave and then press start. this microwave safe bowl mix well and serve.
+When beeps, add salt and water mix well, cover it and put
+the microwave safe bowl in microwave and then cook.
+When beeps, serve hot with salads.
+English - 20
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 2200 1144//77//22002233 1122::4488::1166 PPMM
+
+English - 21
+04
+OVEN
+USE
+USING THE TIKKA SERIES SETTINGS
+The following table presents the various Tikka Series Programmes and
+Code/Food Serving Size Ingredients
+appropriate instructions.
+9 400-500 gm Grated Carrot – 300 gm, Ghee – 2 tbsp,
+Carrot Halwa Milk Powder – 4 tbsp, Khoya – 5 tbsp, Code/Food Serving Size Ingredients
+Sugar – 4 tbsp, Milk – ½ Cup, Cardamom
+1 300-400 gm Boiled Potato (mashed) – 200 gm, Mix Veg
+Powder and Dry Fruit – As per your taste
+Harabhara (mashed) – 100 gm, Ginger Garlic Paste – 1
+Instructions Kabab tsp, Chili Paste – 1 tsp, Salt, Garam Masala,
+In microwave safe uncovered glass bowl take grated Oil and Bread Crump’s – As required.
+carrot and ghee. Mix it well and press the start. When
+Instructions
+beeps, add milk powder, milk, khoya and sugar. Mix it
+Mix all the ingredients and make cutlets in desired shape.
+well and cook. Again when beeps, add dry fruits and
+Keep high rack inside and place cutlets on metal flat dish,
+cardamom powder and serve.
+Keep this on high rack and then cook. When beeps, turn
+10 400-500 gm Fish (preferably skinless & boneless) – 500 the cutlets and keep this on high rack and cook. Serve
+Machchi gm (cut into 2” pieces (but fish with skin with sauce.
+Patiala and bones can also be used)), Oil – 4 tbsp, 2 300-350 gm Boneless Chicken – 225 gm, Thick Curd –
+Large Onion , (Chopped very fine) – 1 (1
+Chicken 1 cup, Chat Masala – 1 tbsp, Ginger Garlic
+cup),
+Tikka Paste – 1½ tbsp, Eatable Orange – A Pinch,
+Green Chilies – 2 to 3, Garlic Paste – ½ tsp,
+Oil – 2 tbsp, Salt & Lemon Juice – As per
+Ginger Paste – ½ tsp, Turmeric Powder – ½
+your taste, Cream – 2 tbsp
+tsp, Red Chili Powder – ½ tsp, Salt – ½ tsp,
+Instructions
+Medium Tomatoes (chopped very fine) – 3
+Mix all the ingredients together and keep in the
+(2½ cups), Water – ¾ cup, Corn Flour – 2
+refrigerator for 1 hour. After marinating add chicken
+heaped tsp
+pieces in a greased metal tray. Sprinkle some oil on it and
+Instructions cook on the high rack. When beeps, turn pieces of side
+In a glass bowl take oil. Add powdered muster seeds,
+down and cook. Serve hot with green Chutney.
+cumin and ajwain and press start. Add turmeric, onion,
+ginger, garlic and green chilies. Mix well. Add Fish pieces,
+red chili powder, salt, tomatoes and ¾ cup water. Mix well
+with a spoon. Add corn flour dissolved in 2 tbsp water.
+Mix well and covered then cook.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 2211 1144//77//22002233 1122::4488::1166 PPMM
+
+Code/Food Serving Size Ingredients Code/Food Serving Size Ingredients
+3 250-300 gm Paneer – 200 gm, Lemon Juice – 1 tbsp, 6 250-300 gm Gobi (Cut big flowers) – 200 gm, Lemon
+Paneer Tikka Edible Red Color – 1 pinch, Oil – 1 tbsp Tandoori Juice – 1 tbsp, Edible Red Color – 1 pinch,
+Marinate : Hung Curd – 4 tbsp, Ginger Gobi Oil – 1 tbsp Marinate : Hung Curd – 4 tbsp,
+Garlic Paste – 1½ tbsp, Red Chili Powder, Ginger Garlic Paste – 1½ tbsp, Red Chili
+Garam Masala – As per your taste Powder, Garam Masala – As per your taste
+Instructions Instructions
+Mix all the ingredients of marinate thoroughly. Add Mix all the ingredients of marinate thoroughly. Add Gobi
+paneer pieces and keep it for 2 hrs in a refrigerator. Keep pieces and keep it for 2 hrs in a refrigerator. Keep the
+the pieces in metal tray on high rack. Apply little oil on pieces in metal tray on high rack. Apply little oil on it.
+it. After that put the metal try on high rack and then start After that put the metal tray on high rack and then press
+cooking. When beeps, turn the pieces and again put the start. When beeps, turn the pieces and again and after
+metal tray on high rack and then press start. Serve hot that put the metal tray on high rack and cook. Serve hot
+with chutney. with chutney.
+4 400-500 gm Fish Fillet – 400 gm Marinate : Hung 7 400-500 gm Chicken – 300 gm (Cut-Boneless (skinless),
+Fish Tikka Curd – ½ cupLemon juice – 1 tbsp, Salt, Murg Malai Cut in 1½” – 2” pieces (pieces should be of
+Turmeric, Red Chili Powder, Chat Masala, Kabab even size)) Saunf (aniseed) , powder – 1
+Garam Masala, Ginger Garlic Paste – As per tsp,
+your taste Salt – 1 tsp, Amchoor (dry mango) Powder
+Instructions – 1 tsp, Red Chili Powder – 1 tsp, Nutmeg
+Wash the Fish Fillet. Mix all the ingredients of marinating powder – ¼ tsp, Cream or Malai – 4 tbsp
+and pour this mixture to fish fillet evenly. Keep for 1 hr Instructions
+in a refrigerator. Arrange the fish fillet on greased metal In microwave safe glass bowl take all the ingredients.
+tray. Apply little oil on each piece. Keep the metal tray on Marinate in refrigerator for 1 hr. In metal tray arrange the
+high rack and start cooking. When beeps turn the pieces pieces, sprinkle oil, and cook at high rack. When beeps,
+and take on high rack and cook.
+turn the pieces and cook.
+5 400-500 gm Baby Potato (peeled) – 400 gm, Curd
+Aloo Tikka – ½ cup, Ginger garlic paste – ½ tbsp,
+Coriander Powder, Cumin Powder, Red Chili
+Powder, Kasoori Methi, Salt & Oil – As per
+your taste
+Instructions
+Take peeled Aloo, add curd, ginger garlic paste and other
+spices and salt mix them well and put on high rack metal
+try sprinkle oil, and start to cook. When beeps, turn potato
+and cook again. Serve hot.
+English - 22
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 2222 1144//77//22002233 1122::4488::1166 PPMM
+
+English - 23
+04
+OVEN
+USE
+USING THE HEALTHY COOKING SETTINGS
+Code/Food Serving Size Ingredients The following table presents the various Healthy Cooking Programmes and
+appropriate instructions.
+8 400-500 gm Mutton (Boneless) – 400 gm, Salt, Red Chili
+Mutton Tikka Powder, Turmeric, Garam Masala, Chat Code/Food Serving Size Ingredients
+Masala, Oil – As per your taste Marinate :
+Hung Curd – 1 cup, Ginger Garlic Paste – 2 1 300-400 gm Chicken (Boneless) – 300 gm, Lemon Juice
+tsp Lemon – 3 tbsp, Honey – 3 tbsp, Pepper – 1 tbsp,
+Chicken Olive Oil – 2 tbsp, Salt – As required Instructions
+In microwave safe glass bowl take all the ingredients. Instructions
+Marinate in refrigerator for 1 hr. In metal tray arrange the Marinate chicken with pepper, salt and lemon juice and
+pieces, sprinkle oil and cook at the high rack. When beeps, put in refrigerator for one hour. In microwave safe bowl
+turn the pieces and cook again. take olive oil and marinate chicken mix well and cover it
+and After that put the microwave safe bowl in Microwave
+9 400-500 gm Boneless chicken – 500 gm, Pepper
+and then cook. When beeps, turn the chicken pieces and
+Pepper powder – 1 tbsp, Oil – 1 tsp, Soya sauce –
+after that put the microwave safe bowl in microwave and
+Chicken 1 tsp, Salt – As per your taste
+then press start. After cooking, remove bowl and add
+Instructions honey after 5 minutes mix and serve.
+In microwave safe bowl take chicken with all other
+2 300-400 gm Poha – 0.3 kg, Oil – 3 tbsp, Onion Chopped –
+ingredients mix well, after that put the microwave safe
+Poha 1 cup, Green Chili – 4 Nos, Mustered, Cumin,
+bowl in Microwave and then press start. When beep, stir
+Asafetida, Turmeric, Curry Leaves – For
+well and after that put the microwave safe bowl and cook.
+Tempering, Grated Coconut & Coriander –
+Serve hot.
+For Garnishing.
+10 400-500 gm Arvi (peeled) – 400 gm, Curd – ½ cup,
+Instructions
+Tandoori Ginger Garlic Paste, Dhaniya Powder,
+In microwave safe bowl put oil mustered, cumin, green
+Arvi Cumin Powder, Red Chili Powder, Kasoori
+chili, onions, turmeric powder curry leaves. After that put
+Methi, Salt & Oil – As per your taste
+the microwave safe bowl in microwave and then press
+Instructions start. When beeps, add washed Poha, salt and sugar
+Take peeled Arvi, add curd ginger garlic paste and other to taste. Mix well and cook again. Garnish coconut and
+spices and salt mix them well and put on high rack and coriander. Serve hot.
+cook. When beeps, turn the Arvi and cook. Serve hot.
+(continued)
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 2233 1144//77//22002233 1122::4488::1166 PPMM
+
+Code/Food Serving Size Ingredients Code/Food Serving Size Ingredients
+3 300-400 gm Rava Suji (Semolina) – one cup or 100 gm, 6 300 gm Chopped Mix Veg (Carrot, Cabbage,
+Upma Oil – 2 tbsp, Mustered, Cumin – 2 tsp, Urad Hot and Sour Capsicum) – 1 cup, Chopped Ginger – 1
+Dal (Black Gram) – ½ tsp, Green Chilies – 2 Soup tbsp, Chopped Garlic – 1 tbsp, Con Flower
+nos, Curry Leaves – 7 to 8, Water – 200 – 2 tbsp, Oil / Butter – 2 tbsp, Water – 200
+ml, Sugar & Salt – as per your taste, Lemon ml, Chili Sauce, Soya Sauce, Vinegar, Salt,
+Juice – 1 tsp Sugar – As per your taste
+Instructions Instructions
+In microwave safe bowl put oil, muster seeds, cumin, black In microwave safe glass bowl add oil and mix veg.,
+gram, green chilies, curry leaves, and rava suji/semolina. ginger, garlic. After that put the bowl in microwave and
+After that put the microwave safe bowl in microwave and cook. When beeps, grind and strain the whole and add
+then press start. When beeps, add water, sugar and salt water, chili sauce, soya sauce, vinegar, salt, sugar as your
+to taste, lemon juice, mix well and keep inside. And then requirement & mix well, bowl in microwave and cook
+put the bowl in microwave and cook again. Garnish with again.
+coriander and bhujiya. 7 8 Idly Instant Idly Mix – 2 cups, Curd – 1 cup,
+4 300-400 gm Daliya – 100 gm, Sugar – 75 gm, Milk + Idli Ginger Garlic Chili Paste and Salt – As per
+Daliya Water (equal) – 200 ml, Ghee – 1 tbsp, your taste, Water – As required
+Cardamom Powder, Kishmish and Cashew Instructions
+Nuts – As per your taste Mix all the ingredients and make a batter, pour this batter
+Instructions to greased microwave and cook. Serve hot with Chutney
+Soaked daliya for 1 hr. Drained water & keep it side, & Sambhar.
+microwave safe bowl a daliya & ghee and then cook. 8 200 gm Mix Veg (Cauliflower, Carrot, Capsicum
+When beeps, add milk, water, sugar mix well, cover it and Steamed Veg. Muter Corn, French Beans) – 200 gm (Cut
+cook again. When beeps, add cardamom powder, kishmish in small pieces), Sugar, Pepper Powder, Salt
+and cashew nuts mix well. – As per your taste, Water – 3 cup
+5 200 gm Mix Veg – 200 gm (Carrot, Muter, Corn, Instructions
+Chili Honey Cornflower, French Beans etc – Cut small In microwave safe glass bowl take mix veg. and water,
+Veg. pieces), Honey – 2 tbsp, Salt, Lemon Juice, after that put the bowl in microwave and cook. When
+Pepper Powder – As per your taste, Water beeps, drain water in another bowl take veg., sugar, peper
+– As required powder, salt mix well and serve hot.
+Instructions
+In microwave safe bowl take vegetable and cook. When
+beeps, drain water add honey, salt, lemon juice, pepper
+powder mix well and cook again.
+English - 24
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 2244 1144//77//22002233 1122::4488::1166 PPMM
+
+English - 25
+04
+OVEN
+USE
+Code/Food Serving Size Ingredients Code/Food Serving Size Ingredients
+9 300-350 gm Atta – 2 cup, Ghee – 100 gm, Powder 2 150-300 gm Noodles – 0.3 kg, Oil – 3 tbsp, Vinegar – 1
+Atta Ladoo Sugar – 75 gm, Cardamom Powder – 1 Noodles tbsp, Soya Sauce – 1 tbsp, Chili Sauce – 1
+tbsp, Almonds (Chopped) – ¼ cup tbsp, Mix vegetables – 1 cup (Cabbage,
+Instructions Carrot, Capsicum, French, Beans, etc)
+In microwave safe glass bowl add Atta and ghee and Instructions
+mix well and cook. When beeps, stir well and cook again. In microwave safe bowl take noodles, water, oil and salt
+When cool and cardamom powder, sugar powder, mix well and put the bowl in microwave and cook. When beeps,
+and make Ladoo. strain noodles and pour cold water over it. In the bowl
+10 300-400 gm Moong dal – 150 gm, Onion (chopped) – put some oil and finally chopped vegetables, add vinegar,
+Sukhi Moong 2 nos, Water – 1 cup, Ginger Garlic Paste, soya sauce, chili sauce, MSG salt and paper to taste and ¼
+Dal Salt, Turmeric Powder, Chili Garam Masala, cup water and After that put the bowl in microwave and
+Coriander Powder, Cumin Powder & Pepper cook again. Add noodles and mix well.
+Powder 3 200-250 gm Soaked Chana – 100 gm, Water – 250 ml,
+Instructions Chana Chat Boiled Potato – 1 No, Ginger paste – 1
+In microwave safe glass bowl take oil onion and ginger- tbsp, Green Chili Paste – 1 tbsp, Oil – 1
+garlic paste and cook. When beeps, add moong dal and all tbsp, Salt, Red Chili Powder, Pepper, Garam
+other ingredients along with water and cook again. Masala, Chat Masala and Lemon Juice –
+As per taste, Muster Seeds, Cumin, and
+USING THE KID’S NUTRITION SETTINGS Asafetida – For tempering
+The following table presents the various Kid’s Nutrition Programmes and Instructions
+appropriate instructions. In bowl take water and soaked chana, after that put the
+bowl in microwave then start cooking. When beeps drain
+Code/Food Serving Size Ingredients the remaining water. In another microwave safe bowl take
+1 200-250 gm Pasta – 200 gm, Oil – 1 tbsp, Grated muster seeds, cumin, asafetida, oil, green chili paste and
+Veg. Pasta Cheese – 3 tbsp, Pizza Pasta Sauce Spring ginger paste and after that put the microwave safe bowl
+Onion Water – As per your taste, Salt – As in microwave and cook. When beeps add boiled chana,
+required boiled potato, salt, garam masala, chat, masala, lemon
+juice and mix well.
+Instructions
+In microwave safe bowl add pasta and water and cook. 4 200-250 gm Suji – 150 gm, Ghee – 4 tbsp, Sugar – ¾
+When beeps, strain pasta and mix the pasta with all the Suji Halwa cup, Water – 3 cup, Dry Fruit, Cardamom
+ingredients and cook again. Serve hot. Powder – As per your taste
+Instructions
+In microwave safe glass bowl take suji & ghee and cook.
+When beeps, add water, sugar, dry fruit & cardamom
+powder mix well and cook again.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 2255 1144//77//22002233 1122::4488::1166 PPMM
+
+Code/Food Serving Size Ingredients Code/Food Serving Size Ingredients
+5 200-250 gm Pizza Base – 100 gm, Pizza Toping – 3 8 200-250 gm Macaroni – 150 gm, Hot Water – 400 ml,
+Chicken Pizza tbsp, Boiled Chicken (Shredded) – ½ cup, Macaroni Butter – 4 tbsp, Spring Onion (chopped) – 4
+Grated Cheese – ½ cup, Flakes, Oregano – tbsp, Garlic (Chopped) – 6 tbsp, Mushrooms
+As per your taste (Chopped) – 6 Nos, Tomato Sauce – 6 tbsp,
+Instructions Chili Sauce – 4 tbsp, Salt, Sugar, Pepper &
+Preheat the 200 °C Convection using the fast preheat Oregano – As per your taste
+button. When beeps, add pizza toping boiled chicken and Instructions
+cheese on pizza base, and after that put on lower rack In microwave safe bowl take macaroni with hot water.
+and then press start. Serve with oregano and chili flakes After that put the microwave safe bowl and start cook.
+on top. When beeps, drain water from it. In bowl add all the
+6 200-250 gm Sweet Corn – 300 gm, Water – 100 ml, ingredients with boiled macaroni mix well and after that
+Corn Chat Salt, Sugar, Butter, Chat Masala, Pepper put the bowl in microwave and cook again.
+Powder – As required 9 200-250 gm Pasta (Penne) – 150 gm, Hot Water –
+Instructions Pasta Salad 400 ml, Butter – 4 tbsp, Spring Onion
+In microwave safe glass bowl take sweet corn with water (chopped) – 4 tbsp, Garlic (Chopped) – 6
+and start cooking. When beeps, drain water and add salt, tbsp, Tomato Sauce – 6 tbsp, Salt, Sugar,
+sugar, butter, chat masala and pepper powder mix well Pepper & Oregano – As per your taste,
+and serve hot. White Sauce – ½ cup, Cheese – ¼ cup
+7 200-250 gm Boiled Vegetables (Potato, Cauliflower Instructions
+Veg. Cutlet Carrots, Green Peas) – 200 gm, Corn flour In microwave safe bowl take pasta with hot water. After
+– 2 tbsp, Bread Crumbs – 1 cup, Ginger that put the bowl in microwave and start cooking. When
+Garlic Paste – 2 tbsp, Chili Paste – 2 tbsp, beeps, drain water from it. In bowl add all the ingredients
+Garam Masala – 1 tbsp, Lemon Juice, Salt, with boiled pasta, mix well and after that put the bowl in
+Sugar – As per your taste. microwave and cook again.
+Instructions 10 200-250 gm Maggie – 200 gm, Water – 400 ml, Maggie
+In a bowl take mix vegetables, boiled potato, bread Maggie Masala – 1 packet, Salt – As per your taste
+crumbs and all the other ingredients except oil and mix Instructions
+well and smash properly. Make cutlets. Put them on a In microwave safe bowl take maggie with water and
+metal tray and put some oil around the cutlets. Keep this maggie masala. After that put the bowl in microwave and
+on high rack and start cook. When it gives a beep, remove start cooking.
+and turn them over. Put it in a microwave and keep this
+on high rack and cook again. When it gives a beep remove
+and garnish with coriander.
+English - 26
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 2266 1144//77//22002233 1122::4488::1166 PPMM
+
+English - 27
+04
+OVEN
+USE
+USING THE VEGGIE SETTINGS
+The following table presents the various Veggie Programmes and appropriate Code/Food Serving Size Ingredients
+instructions.
+3 300-400 gm Cut Potatoes – 200 gm, Cut Cauliflower –
+Code/Food Serving Size Ingredients Aloo Gobi 200 gm, Cut Tomatoes – 100 gm, Oil – 2
+tbsp, Turmeric Powder, Coriander Powder,
+1 400-500 gm Vegetables (Potato, Cauliflower, Capsicum, Red Chili Powder, Cumin Seeds, Salt, Garam
+Pav. Bhaji Green Peas, Carrot, Beans etc) – 300 gm, Masala, Water – As per your taste, Fresh
+Oil – 3 tbsp, Onion (Chopped) – 2 nos, Cream, Salt, Turmeric, Sugar, Kasoori Methi,
+Tomato (Chopped) – 2 Nos, Pav Bhaji Coriander – As per your taste, Cream – 2
+Masala, Ginger Garlic Paste, Red Chili tbsp
+Powder, Salt, Lemon juice, Butter, Hara
+Instructions
+Dhaniya, Water – As per your taste.
+In microwave safe glass bowl take oil, potatoes and
+Instructions cauliflower and mix well. Put the bowl in microwave
+In microwave safe take all the vegetables, after that put and start cooking. When beeps, add tomatoes, other
+the bowl in microwave and start to cook. When beeps, in ingredients, and water and put in microwave then cook
+another bowl add oil, ginger garlic paste, chopped onion, again.
+chopped tomato, mix well and add masala, lemon juice,
+4 300-400 gm Karela (Cut small Pieces) – 8/10, Onion
+smashed vegetables, salt, pav bhaji masala and water as
+Karela Grind – 2 No, Tomato Puri – 2 No, Ginger,
+required. Mix well and that put bowl in microwave and
+Masala Garlic Pest – 2 Tbsp, Coriander Powder,
+cook again.
+Cumin Powder, Turmeric Powder, Red chili
+2 400-500 gm Boiled Mutter – 100 gm, Paneer – 200 gm, powder, Garam Masala, Salt – As per your
+Mutter Onions (paste) – 2 no, Tomato (puree) – 2 taste, Oil – 3 tbsp, Cream – ¼ Cup, Water
+Paneer no, Garlic Ginger Paste – 1 tsp, Oil – 2 tbsp, – ½ Cup
+Red Chili Powder, Garam Masala
+Instructions
+Instructions In microwave safe bowl take oil and add onions and start
+In microwave safe bowl add oil, onions and ginger garlic cooking. When beeps, add ginger garlic paste, karela
+paste and put the bowl in microwave and start cooking. pieces and all the spices and add tomato puree, half cup
+When beeps, add tomato puree, cream, and all masala water, cream and cover it and cook again. Serve hot with
+except, salt and sugar boiled mutter, paneer salt and sugar rice.
+and put the bowl in microwave and cook again.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 2277 1144//77//22002233 1122::4488::1166 PPMM
+
+Code/Food Serving Size Ingredients Code/Food Serving Size Ingredients
+5 150-200 gm Aloo (Boiled) – 2 nos, Methi – 1 bunch, 7 400-500 gm Soaked Arhar Dal (Soaked for 1 hr) – 200
+Aloo Methi Green Chilies – 2 to 3 nos, Oil – 2 tbsp, Dal Tadka gm, Water – 300 gm, Oil – 2 tbsp, Cumin
+Salt, Turmeric, Musters Seeds, Cumin – As – 1 tbsp, Green Chilies – 2 to 3 nos, Curry
+required Leaves – 5 to 6 nos, Salt, Coriander, Cumin
+Instructions Powder, Turmeric, Asafetida, Kasoori
+In microwave safe bowl take oil, muster, cumin, green Methi, Lemon Juice – As per your taste
+chilies. After that put the microwave safe bowl in Instructions
+microwave and start to cook. When beeps, add methi In microwave safe bowl take dal. Add water, turmeric
+leaves, turmeric and salt mix well and after that put the and asafetida and cover it. After that put the bowl in
+bowl in microwave and cook again. After the cooking, add microwave and start to cook. When beeps, take another
+boiled aloo mix well. bowl and add oil, cumin, chopped green chilies, curry
+6 400-500 gm Ghee – 2 tbsp, Gram Flour – 3 tbsp, Curd – leaves cooked dal, salt, coriander, cumin powder,
+Kadhi 200 gm, Water – 300 ml, Salt, Sugar, Cumin, kasurimethi, lemon juice, water. After that put the bowl in
+Pakoda Green Chili, Ginger, Curry Leaves – As per microwave and cook again. Garnish with tomato.
+your taste, Gram flour for Pakoda – 100 gm, 8 400-500 gm Bhindi (Cut into pieces) – 400 gm, Onion
+Red Chili Powder, Turmeric, Ajwain & Salt – Lazeez (Chopped) – 2 Nos, Tomato (Chopped)
+As per your taste Bhindi – 2 Nos, Ginger Garlic Paste – 2 tbsp,
+Instructions Coriander Powder, Cumin Powder,
+In microwave safe glass bowl add ghee, cumin and curry Turmeric, Red Chili Powder, Garam Masala,
+leave curd with water add gram flour, sugar, salt, green Salt – As per your taste, Oil – As required,
+chili and ginger mix it well and start cooking. In another Cream – 2 tbsp
+bowl take gram flour. Add salt, ajwain, red chili powder, Instructions
+little oil to it and make soft dough and make small ball In microwave safe glass bowl take oil, add chopped onion
+form it. When beeps, add to this ball to Kadhi mixture and & ginger garlic paste. After that put the bowl in microwave
+cook again. Serve hot with rice. and start cooking. When beeps, add powder masala.
+Chopped tomato and bhindi, salt and cream and after that
+put the bowl in microwave and cook again.
+English - 28
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 2288 1144//77//22002233 1122::4488::1166 PPMM
+
+English - 29
+04
+OVEN
+USE
+USING THE CAFETERIA SETTINGS
+Code/Food Serving Size Ingredients The following table presents the various Cafeteria Programmes and
+appropriate instructions.
+9 400-500 gm Palak Leaves (Spinach) – 300 gm (Boiled &
+Palak Paneer Grinded), Onion (Chopped) – 2 Nos, Tomato Code/Food Serving Size Ingredients
+(Chopped) – 2 Nos, Ginger Garlic Paste – 2
+tbsp, Paneer – 150 gm, Oil – 3 tbsp, Garam 1 300-400 gm Plain Flour – 100 gm, Powdered Sugar
+Masala, Coriander Cumin, Powder, Salt, Brownie – 80 gm, Butter – 75 gm, Eggs – 2 no,
+Fresh Cream – As per your taste Chopped Almonds – 3 tbsp, Baking Powder
+– 1 tsp, Chocolate Essence – 1 tsp, Coco
+Instructions
+Powder – 3 tbsp
+In microwave safe glass bowl take oil, add chopped onion &
+ginger garlic paste. After that put the bowl in microwave and Instructions
+start cooking. When beeps, add tomato and all the masala, Sieve plain flour, baking powder, mix coco powder with
+palak paste, paneer and cream. Mix it well and after that put ½ cup water. In a bowl beat butter with powder sugar.
+the bowl in microwave and cook again. Add eggs and essence and beat it well. Add maida and
+almonds to this mixture and mix well. Add coco solution to
+10 400-500 gm Mix Vegetables (Yam, Custer Beans, White
+this mixture and mix well. For spoon dropping consistency
+Mixed Ash Guard, White Pumpkin, Red Pumpkin,
+add milk or water. Pour this mixture in greased metal
+Masala Veg. Raw Banana, Carrots) – 400 gm (Peeled
+tin. Preheat the 200 °C Convection using the fast preheat
+and Cut into), Fresh coconut – 1 cup (2”
+button. When beeps, put this cake tin in microwave and
+pieces), Green Chili – 2 to 3 Nos, Cumin – ½
+cook.
+tsp, Curry Leaves – 7 to 8 Nos, Turmeric
+– ¼ tsp, Curd – ¼ cup, Coconut oil – 1 tsp, 2 300-400 gm Bread (French) – 3 slices, Butter – 3 tbsp,
+Salt & Sugar – As per taste Garlic Bread Garlic – 2 tbsp, Grated Cheese – 3 tbsp,
+Salt, Pepper, Oregano, Chili Flakes – As per
+Instructions
+taste
+Make paste of coconut, green chill and cumin with little
+water and keep aside. In microwave safe bowl, take all Instructions
+the vegetables, with some water and start to cook. When Mix butter, garlic, salt, pepper, oregano and make a paste.
+beeps, in another microwave safe bowl, take coconut oils, Apply this paste on both sides of the bread and sprinkle
+curry leaves, turmeric and boiled vegetables mix well and grated cheese and chilli flakes. Keep these breads on
+cook again. After cooking, add curd and paste of coconut metal tray on low rack. Preheat the 200 °C Convection
+and mix well. using the fast preheat button. When beeps, put this metal
+tray in microwave and cook.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 2299 1144//77//22002233 1122::4488::1166 PPMM
+
+Code/Food Serving Size Ingredients Code/Food Serving Size Ingredients
+3 6 muffin’s Plain Flour – 100 gm, Butter – 75 gm, 5 200 gm Gram Flour – 200 gm, Warm Water – 75
+Chocolate Powdered Sugar – 75 gm, Eggs – 1 Nos, Dhokla ml,
+Muffin Baking Powder – ½ tsp, Almond Essence Curd – 3 tbsp, Green Chili-Ginger – 1½ tsp,
+– ½ tsp, Almonds, Walnuts (As per your Fruit Salt – 1½ tsp, Salt & Sugar – As per
+taste) your taste
+Instructions Instructions
+Sieve plain flour with baking powder beat butter with Grease the microwave safe flat dish, with little oil. Mix
+sugar, add eggs. Beet well and add essence, mix maida in gram flour curd, sugar, salt, water, ginger, green chili
+it keep on adding milk and water till the tin is filled to the paste, yellow color, fruit, and salt together. Pour the
+brim, grease the Muffin tin in with butter and pour the mixture in greased dish, then put the bowl in dhokla
+cake mixture in it. Preheat the 200 °C Convection using maker and then press start. Cut it into pieces, garnish with
+the fast preheat button. When beeps, keep in low rack and grated coconut and coriander and serve with sauce or
+cook. chutney.
+4 200-250 gm Pizza Base – 100 gm, Pizza Toping – 3 6 450-500 gm Plain Flour – 150 gm, Condensed Milk –
+Veg. Pizza tbsp, Mixed Vegetables (Tomato, capsicum, Marble Cake 200 gm, Butter – 100 gm, Baking Powder
+Onion) – 1 cup, Grated Cheese – ½ cup, – 1 tsp,
+Chili Flakes – As per your taste, Oregano – Soda bi carb – ½ tsp, Vanilla Essence – 1
+seasoning tsp, Coco Powder – 2 tbsp
+Instructions Instructions
+Preheat the 200 °C convection using the fast preheat Sieve plain flour with baking powder and soda, in a bowl
+button. When beeps, add pizza toping mixed vegetable beat butter with milkmaid, Beat well and add essence, mix
+and Cheese on Pizza base, and After that put the pizza in maida in it for spoon dropping consistency add milk and
+lower and then press start. Serve with oregano and chili water. Divide the mixture in 2 parts. Add coco powder in
+flakes on top. one part put the plain batter and coco batter alternately
+in the tin. Run a spoon through the batter only once.
+Select menu and after that put the microwave safe bowl in
+microwave. Preheat the 200 °C Convection using the fast
+preheat button. When beeps, put the tin on lower rack, Put
+the tin in lower rack on microwave and then press start
+to bake.
+English - 30
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 3300 1144//77//22002233 1122::4488::1166 PPMM
+
+English - 31
+04
+OVEN
+USE
+Code/Food Serving Size Ingredients Code/Food Serving Size Ingredients
+7 2 eggs Butter – 1½ tbsp, Brown or White Bread 9 300 gm Fish Fillet (Cut in small pieces) – 250 gm,
+Lazeez – 4 slices, Garlic (5-6 Flakes, crushed and Fish Cutlet Boiled Potato – 2 no, Bread crumbs – 1
+Paneer Toast chopped) – 1 tsp, Leaves of Palak (Spinach cup,
++ washed & shredded) – 100 gm, Paneer Oil – 2 tbsp, Chili Powder, Turmeric,
+– 150 gm, Basil or Coriander – 1 tbsp Ginger-Garlic Paste, Salt – As per your
+(chopped), Mozzarella Cheese (grated) – taste, Garam Masala Powder – 1 tbsp,
+5 tbsp, Salt & Pepper – ¼ tsp, Red Chili Coriander – 2 tbsp
+Flakes – (As per taste) Instructions
+Instructions In a bowl take fish fillet and all the other ingredients
+Wash and shred the spinach leaves into thin ribbons. In except oil and mix well. Make cutlets. Put them on a metal
+microwave bowl add butter, garlic, spinach and press the tray; put some oil around the cutlets. Keep this on high
+start. When beeps, remove and add grated paneer, basil rack and cook. When beeps, remove and turn them over.
+cheese, mozzarella cheese & mix it well. Spread the mixer Put it in a microwave and cook. When it gives a beep
+on the toast. In a low rack take spread bread slice at low remove and garnish with coriander.
+rack and cook. 10 2 eggs Eggs – 2 Nos, Chopped Onions – ¼ cup,
+8 200-250 gm Plain Flour – 100 gm, Grated Cheese – Omelet Chopped Tomatoes – ¼ cup, Chopped
+Cheese Straw 25 gm, Butter – 50 gm, Baking Powder Green Chili – 1 Nos, Chopped Coriander – 1
+– 1/8 tsp, Pepper Powder – ¼ tsp, Chili tbsp, Milk – 2 tbsp, Salt and Pepper – As
+Powder – ½ tsp, Salt – ¼ tsp, Water – As per your taste
+required Instructions
+Instructions Beat the eggs and add chopped onions, tomatoes, green
+Sieve plain flour with baking powder, chili powder and chilies, coriander, salt, pepper and milk and mix well.
+pepper. In a bowl add butter, maida, and cheese and rub Apply some oil to microwave safe flat dish and add egg
+with fingertips till it resembles like bread crump’s, add mixture and cook. When beeps, turn and cook. Stand for
+little water to make soft dough in thin roti and cut into 1 minute.
+small pieces, Twist them and put on Metal tray. Preheat
+the 200 °C Convection using the fast preheat button.
+When beeps, keep this tray on low rack and cook. Serve
+cold.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 3311 1144//77//22002233 1122::4488::1166 PPMM
+
+CONVECTION GRILLING
+The convection mode enables you to cook food in the same way as in The grill enables you to heat and brown food quickly, without using
+a traditional oven. The microwave mode is not used. You can set the microwaves.
+temperature, as required, in a range varying from 40 °C to 200 °C. The • Always use oven gloves when touching the recipients in the oven, as
+they will be very hot.
+maximum cooking time is 60 minutes.
+• You can get better cooking and grilling results, if you use the high rack.
+• Always use oven gloves when touching the recipients in the oven, as
+they will be very hot.
+1. Open the door and place the food on the rack.
+• You can get better cooking and browning, if you use the low rack.
+Open the door and place the recipient on the low rack and set on turntable.
+1. Press the Convection button.
+Result: The following indications are displayed: 2. Press the Grill button.
+Result: The following indications are displayed:
+(convection mode) (grill mode)
+180 °C (temperature) • You cannot set the temperature of the grill.
+2. Set the temperature by pressing the Up or Down 3. Set the grilling time by pressing the Up or Down
+button.
+button. (Temperature : 200 °C, 180 °C, 160 °C, 140 °C,
+• The maximum grilling time is 60 minutes.
+100 °C, 40 °C)
+• If don't set the temperature within 5 seconds, 4. Press the START button.
+Automatically changes to the cooking time Result: Grilling starts.
+setting stage. • When cooking has finished, the
+oven will beep and flash “End” 4
+3. Press the Select button.
+times. The oven will then beep one
+time per minute.
+4. Set the cooking time by pressing the Up or Down CHOOSING THE ACCESSORIES
+button.
+(If you want to preheat the oven, omit this step.) Traditional convection cooking does require cookware.
+You should, however, use only cookware that you would
+5. Press the START button. use in your normal oven.
+Result: Cooking starts. Microwave-safe containers are not usually suitable for
+• When cooking has finished, the convection cooking; don’t use plastic containers, dishes,
+oven will beep and flash “End” 4 paper cups, towels, etc.
+times. The oven will then beep one
+If you wish to select a combined cooking mode (microwave and grill or
+time per minute.
+convection), use only recipients that are microwave-safe and oven-proof.
+For further details on suitable cookware and utensils, refer to the
+Cookware Guide on page 36.
+English - 32
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 3322 1144//77//22002233 1122::4488::1177 PPMM
+
+English - 33
+04
+OVEN
+USE
+COMBINING MICROWAVE AND GRILL COMBINING MICROWAVE AND CONVECTION
+You can also combine microwave cooking with the grill, to cook quickly and Combination cooking uses both microwave energy and convection heating.
+brown at the same time. No preheating is required as the microwave energy is immediately available.
+ALWAYS use microwave-safe and oven-proof cookware. Glass or ceramic Many foods can be cooked in combination mode, particularly:
+dishes are ideal as they allow the microwaves to penetrate the food • Roast meats and poultry
+evenly. • Pies and cakes
+ALWAYS use oven gloves when touching the recipients in the oven, as • Egg and cheese dishes
+they will be very hot. ALWAYS use microwave-safe and oven-proof cookware. Glass or ceramic
+You can improve cooking and grilling, if you use the high rack. dishes are ideal as they allow the microwaves to penetrate the food
+Open the door. Place the food on the rack best suited to the type of food to evenly.
+be cooked. Place the rack on the turntable. Close the door. ALWAYS use oven gloves when touching the dishes in the oven, as they
+will be very hot.
+1. Press the MW+Grill button.
+You can get better cooking and browning, if you use the low rack.
+Result: The following indications are displayed:
+Open the door. Place the food on the turntable or on the low rack which
+(microwave & grill combi mode) should then be placed on the turntable. Close the door.
+600 W (output power)
+1. Press the MW+Conv. button.
+2. Select the appropriate power level by pressing the Result: The following indications are displayed:
+Up or Down button until the corresponding output
+(convection & microwave combi
+power is displayed (600, 450, 300 W). At that time,
+mode)
+press the Select button to set the power level.
+• You cannot set the temperature of the grill. 600 W (output power)
+• If don't set the power level within 5 seconds,
+2. Select the appropriate power level by pressing the
+Automatically changes to the cooking time
+Up or Down button until the corresponding output
+setting stage.
+power is displayed (600, 450, 300, 180, 100 W). At
+3. Set the cooking time by pressing the Up or Down that time, press the Select button to set the power
+button. level.
+• The maximum cooking time is 60 minutes. • If don't set the power level within 5 seconds,
+Automatically changes to the cooking time
+4. Press the START button.
+setting stage.
+Result:
+(Default: 600 W)
+• Combination cooking starts.
+• When cooking has finished, the
+oven will beep and flash “End” 4
+times. The oven will then beep one
+time per minute.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 3333 1144//77//22002233 1122::4488::1177 PPMM
+
+MULTISTAGE COOKING
+Your microwave oven can be programmed to cook food in up to three stages
+3. Select the appropriate temperature by pressing the
+(the Convection, Microwave+Convection and Fast Preheat mode can not be
+Up or Down button.
+used in Multistage cooking).
+(Temperature : 200 °C, 180 °C, 160 °C, 140 °C, 100 °C,
+40 °C). Example: You wish to Power defrost food and cook it without having to
+At that time, press the Select button to set the reset the oven after each stage. You can thus defrost and cook a
+temperature. 1500 g chicken in three stages:
+• If don't set the temperature within 5 seconds, • Defrosting
+Automatically changes to the cooking time • Microwave cooking for 25 minutes
+setting stage. • Grill for 10 minutes
+(Default: 180 °C)
+Defrosting must be the first stage. Combination and Grill can only be
+4. Set the cooking time by pressing the Up or Down used once during the remaining two stages, However microwave can be
+button. used twice(at two different power levels).
+• The maximum cooking time is 60 minutes.
+1. Press the Power Defrost button.
+5. Press the START button.
+Result:
+• Combination cooking starts.
+• The oven is heated to the required 2. Select the type of food that you are cooking by
+temperature and then microwave pressing the Up or Down button. Refer to the table
+cooking continues until the cooking on page 16 for a description of the various pre-
+time is over. programmed settings. At that time, press the Select
+• When cooking has finished, the button to select the type of food.
+oven will beep and flash “End” 4
+3. Select the size of the serving by pressing the Up or
+times. The oven will then beep one
+Down button.
+time per minute.
+4. Press the Microwave button.
+5. Press the Up or Down button until the appropriate
+power level is displayed. At that time, press the
+Select button to set the power level.
+6. Set the Cooking time by pressing the Up or Down
+button.
+English - 34
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 3344 1144//77//22002233 1122::4488::1177 PPMM
+
+English - 35
+04
+OVEN
+USE
+SWITCHING THE BEEPER OFF
+You can switch the beeper off whenever you want.
+7. Press the Grill button.
+1. Press the START and STOP/ECO buttons at the same
+time (about one second).
+Result: The oven does not beep to indicate the
+8. Set the grilling time by pressing the Up or Down
+end of a function. button.
+• The following indication is displayed.
+9. Press the START button.
+Result: Cooking starts.
+2. To switch the beeper back on, press the START and
+When cooking has finished, the oven will
+STOP/ECO buttons again at the same time (about
+beep and flash “End” 4 times. The oven
+one second).
+will then beep one time per minute.
+Result: The oven operates normally.
+• The following indication is displayed.
+SAFETY-LOCKING YOUR MICROWAVE OVEN
+Your microwave oven is fitted with a special Child Safety programme, which
+enables the oven to be “locked” so that children or anyone unfamiliar with it
+cannot operate it accidentally.
+The oven can be locked at any time.
+1. Press the STOP/ECO and Select buttons at the same
+time(about three second).
+Result: The oven is locked (no functions can be
+selected).
+• The display shows “L”.
+2. To unlock the oven, press the STOP/ECO and
+Select buttons again at the same time (about three
+second).
+Result: The oven can be used normally.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 3355 1144//77//22002233 1122::4488::1188 PPMM
+
+cookware guide Microwave-
+Cookware Comments
+Safe
+To cook food in the microwave oven, the microwaves must be able to
+Glassware
+penetrate the food, without being reflected or absorbed by the dish used.
+• Oven-to-table ware ✓ Can be used, unless decorated
+Care must therefore be taken when choosing the cookware. If the cookware with a metal trim.
+is marked microwave-safe, you do not need to worry.
+• Fine glassware ✓ Can be used to warm foods or
+The following table lists various types of cookware and indicates whether liquids. Delicate glass may break
+and how they should be used in a microwave oven. or crack if heated suddenly.
+• Glass jars ✓ Must remove the lid. Suitable for
+Cookware Microwave- Comments warming only.
+Safe
+Metal
+Aluminium foil ✓ ✗ Can be used in small quantities
+to protect areas against • Dishes ✗ May cause arcing or fire.
+overcooking. Arcing can occur if • Freezer bag twist ✗
+the foil is too close to the oven ties
+wall or if too much foil is used
+Paper
+Browning plate ✓ Do not preheat for more than
+eight minutes. • Plates, cups, napkins ✓ For short cooking times and
+and Kitchen paper warming. Also to absorb excess
+China and earthenware ✓ Porcelain, pottery, glazed moisture.
+earthenware and bone china are
+usually suitable, unless decorated • Recycled paper ✗ May cause arcing.
+with a metal trim. Plastic
+Disposable polyester ✓ Some frozen foods are packaged • Containers ✓ Particularly if heat-resistant
+cardboard dishes in these dishes. thermoplastic. Some other
+Fast-food packaging plastics may warp or discolour at
+high temperatures.
+• Polystyrene cups ✓ Can be used to warm food.
+Do not use Melamine plastic.
+containers Overheating may cause the
+polystyrene to melt. • Cling film ✓ Can be used to retain moisture.
+Should not touch the food. Take
+• Paper bags or ✗ May catch fire.
+care when removing the film as
+newspaperr
+hot steam will escape.
+• Recycled paper or ✗ May cause arcing.
+• Freezer bags ✓ ✗ Only if boilable or oven-proof.
+metal trims
+Should not be airtight. Prick with
+a fork, if necessary.
+Wax or grease-proof ✓ Can be used to retain moisture
+paper and prevent spattering.
+✓ : Recommended ✓✗ : Use Caution ✗ : Unsafe
+English - 36
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 3366 1144//77//22002233 1122::4488::1188 PPMM
+
+English - 37
+05
+COOKWARE
+GUIDE
+&
+COOKING
+GUIDE
+cooking guide
+Cooking guide for frozen vegetables
+MICROWAVES
+Use a suitable glass pyrex bowl with lid. Cook covered for the minimum time
+Microwave energy actually penetrates food, attracted and absorbed by its - see table. Continue cooking to get the result you prefer.
+water, fat and sugar content. Stir twice during cooking and once after cooking. Add salt, herbs or butter
+The microwaves cause the molecules in the food to move rapidly. The rapid after cooking. Cover during standing time.
+movement of these molecules creates friction and the resulting heat cooks
+the food. Food Serving Size Power Time (min.)
+Spinach 150 g 600 W 5-6
+COOKING
+Instructions
+Cookware for microwave cooking: Add 15 ml (1 tbsp) cold water. Stand for 2-3 minutes.
+Cookware must allow microwave energy to pass through it for maximum
+Broccoli 300 g 600 W 9-10
+efficiency. Microwaves are reflected by metal, such as stainless steel,
+aluminium and copper, but they can penetrate through ceramic, glass, Instructions
+porcelain and plastic as well as paper and wood. So food must never be Add 30 ml (2 tbsp) cold water. Stand for 2-3 minutes.
+cooked in metal containers. Peas 300 g 600 W 7-8
+Food suitable for microwave cooking: Instructions
+Many kinds of food are suitable for microwave cooking, including fresh or Add 15 ml (1 tbsp) cold water. Stand for 2-3 minutes.
+frozen vegetables, fruit, pasta, rice, grains, beans, fish, and meat. Sauces, Green Beans 300 g 600 W 8-9
+custard, soups, steamed puddings, preserves, and chutneys can also be Instructions
+cooked in a microwave oven. Generally speaking, microwave cooking is ideal
+Add 30 ml (2 tbsp) cold water. Stand for 2-3 minutes.
+for any food that would normally be prepared on a hob. Melting butter or
+Mixed 300 g 600 W 7½-8½
+chocolate, for example (see the chapter with tips, techniques and hints).
+Vegetables Instructions
+Covering during cooking
+(Carrots/Peas/ Add 15 ml (1 tbsp) cold water. Stand for 2-3 minutes.
+To cover the food during cooking is very important, as the evaporated water
+Corn)
+rises as steam and contributes to cooking process. Food can be covered in
+different ways: e.g. with a ceramic plate, plastic cover or microwave suitable Mixed 300 g 600 W 8-9
+cling film. Vegetables Instructions
+Standing times (Chinese Style) Add 15 ml (1 tbsp) cold water. Stand for 2-3 minutes.
+After cooking is over food the standing time is important to allow the
+temperature to even out within the food.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 3377 1144//77//22002233 1122::4488::1188 PPMM
+
+Cooking guide for rice and pasta Cooking guide for fresh vegetables
+Rice : Use a large glass pyrex bowl with lid - rice doubles in volume Use a suitable glass pyrex bowl with lid. Add 30-45 ml cold water (2-3
+during cooking. Cook covered. tbsp.) for every 250 g unless another water quantity is recommended
+After the cooking time is over, stir before standing time and salt - see table. Cook covered for the minimum time - see table. Continue
+or add herbs and butter. cooking to get the result you prefer. Stir once during and once after
+Remark: the rice may not have absorbed all water after the cooking. Add salt, herbs or butter after cooking. Cover during a standing
+cooking time is finished. time of 3 minutes.
+Pasta : Use a large glass pyrex bowl. Add boiling water, a pinch of salt Hint : Cut the fresh vegetables into even sized pieces. The smaller
+and stir well. Cook uncovered. they are cut, the quicker they will cook.
+Stir occasionally during and after cooking. Cover during
+Food Serving Size Power Time (min.)
+standing time and drain thoroughly afterwards.
+Broccoli 250 g 4-5
+Food Serving Size Power Time (min.) 800 W
+500 g 7-8
+White Rice 250 g 800 W 16-18 Instructions
+(Parboiled) Instructions Prepare even sized florets. Arrange the stems to the
+Add 500 ml cold water. Stand for 5 minutes. centre. Stand for 3 minutes.
+Brown Rice 250 g 800 W 21-23 Brussels 250 g 800 W 6-7
+(Parboiled) Instructions Sprouts Instructions
+Add 500 ml cold water. Stand for 5 minutes. Add 60-75 ml (5-6 tbsp.) water. Stand for 3 minutes.
+Mixed Rice 250 g 800 W 17-19 Carrots 250 g 800 W 4½-5
+(Rice + Wild Instructions Instructions
+Rice) Add 500 ml cold water. Stand for 5 minutes. Cut carrots into even sized slices. Stand for 3 minutes.
+Mixed Corn 250 g 800 W 12-14 Cauliflower 250 g 5-6
+800 W
+(Rice + Grain) Instructions 500 g 8-9
+Add 500 ml cold water. Stand for 2 minutes. Instructions
+Pasta 250 g 800 W 10-12 Prepare even sized florets. Cut big florets into halves.
+Arrange stems to the centre. Stand for 3 minutes.
+Instructions
+Add 1000 ml hot water. Stand for 5 minutes. Courgettes 250 g 800 W 3-4
+Instructions
+Cut courgettes into slices. Add 30 ml (2 tbsp.) water
+or a knob of butter. Cook until just tender. Stand for 3
+minutes.
+English - 38
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 3388 1144//77//22002233 1122::4488::1188 PPMM
+
+English - 39
+06
+COOKING
+GUIDE
+REHEATING
+Your microwave oven will reheat food in a fraction of the time that
+Food Serving Size Power Time (min.)
+conventional ovens hobs normally take.
+Egg Plants 250 g 800 W 3½-4 Use the power levels and reheating times in the following chart as a guide.
+Instructions The times in the chart consider liquids with a room temperature of about +18
+Cut egg plants into small slices and sprinkle with 1 to +20 °C or a chilled food with a temperature of about +5 to +7 °C.
+tablespoon lemon juice. Stand for 3 minutes. Arranging and covering
+Leeks 250 g 800 W 4½-5 Avoid reheating large items such as joint of meat – they tend to overcook and
+Instructions dry out before the centre is piping hot. Reheating small pieces will be more
+Cut leeks into thick slices. Stand for 3 minutes. successful.
+Mushrooms 125 g 1½-2 Power levels and stirring
+800 W 250 g 3-3½ Some foods can be reheated using 800 W power while others should be
+reheated using 600 W, 450 W or even 300 W.
+Instructions
+Check the tables for guidance. In general, it is better to reheat food using a
+Prepare small whole or sliced mushrooms. Do not add
+lower power level, if the food is delicate, in large quantities, or if it is likely to
+any water. Sprinkle with lemon juice. Spice with salt
+heat up very quickly (mince pies, for example).
+and pepper. Drain before serving. Stand for 3 minutes.
+Stir well or turn food over during reheating for best results. When possible,
+Onions 250 g 800 W 5½-6
+stir again before serving.
+Instructions Take particular care when heating liquids and baby foods. To prevent eruptive
+Cut onions into slices or halves. Add only 15 ml (1 tbsp.) boiling of liquids and possible scalding, stir before, during and after heating.
+water. Stand for 3 minutes. Keep them in the microwave oven during standing time. We recommend
+Pepper 250 g 800 W 4½-5 putting a plastic spoon or glass stick into the liquids. Avoid overheating (and
+therefore spoiling) the food.
+Instructions
+It is preferable to underestimate cooking time and add extra heating time, if
+Cut pepper into small slices. Stand for 3 minutes.
+necessary.
+Potatoes 250 g 4-5
+800 W Heating and standing times
+500 g 7½-8½
+When reheating food for the first time, it is helpful to make a note of the time
+Instructions
+taken – for future reference.
+Weigh the peeled potatoes and cut them into similar
+Always make sure that the reheated food is piping hot throughout.
+sized halves or quarters. Stand for 3 minutes.
+Allow food to stand for a short time after reheating - to let the temperature
+Turnip Cabbage 250 g 800 W 5½-6 even out.
+Instructions The recommended standing time after reheating is 2-4 minutes, unless
+Cut turnip cabbage into small cubes. Stand for 3 another time is recommended in the chart.
+minutes. Take particular care when heating liquids and baby food. See also the chapter
+with the safety precautions.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 3399 1144//77//22002233 1122::4488::1188 PPMM
+
+REHEATING LIQUIDS
+Always allow a standing time of at least 20 seconds after the oven has been Food Serving Size Power Time
+switched off to allow the temperature to even out. Stir during heating, if
+Baby Porridge 190 g 600 W 20 sec.
+necessary, and ALWAYS stir after heating. To prevent eruptive boiling and
+(Grain + Milk + Instructions
+possible scalding, you should put a spoon or glass stick into the beverages
+Fruit) Empty into ceramic deep plate. Cook covered. Stir after
+and stir before, during and after heating.
+cooking time. Before serving, stir well and check the
+REHEATING BABY FOOD temperature carefully. Stand for 2-3 minutes.
+BABY FOOD: Empty into a deep ceramic plate. Cover with plastic lid. Stir well Baby Milk 100 ml 30-40 sec.
+after reheating! 200 ml 300 W 1 min. to 1 min.
+Let stand for 2-3 minutes before serving. Stir again and check the 10 sec.
+temperature.
+Instructions
+Recommended serving temperature: between 30-40 °C.
+Stir or shake well and pour into a sterilized glass bottle.
+BABY MILK: Pour milk into a sterilised glass bottle. Reheat uncovered. Never Place into the centre of turn-table. Cook uncovered.
+heat a baby’s bottle with teat on, as the bottle may explode if overheated. Shake well and stand for at least 3 minutes. Before
+Shake well before standing time and again before serving ! Always carefully serving, shake well and check the temperature
+check the temperature of baby milk or food before giving it to the baby. carefully. Stand for 2-3 minutes.
+Recommended serving temperature: ca. 37 °C.
+REMARK:
+Reheating Liquids and Food
+Baby food particularly needs to be checked carefully before serving to
+Use the power levels and times in this table as a guide lines for reheating.
+prevent burns.
+Use the power levels and times in the next table as a guide lines for Food Serving Size Power Time (min.)
+reheating.
+Drinks (Coffee, 150 ml (1 cup) 1-1½
+800 W
+Reheating baby food and milk Tea and Water) 250 ml (1 mug) 2-2½
+Use the power levels and times in this table as guide lines for reheating. Instructions
+Pour into cup and reheat uncovered. Put cup/ mug in
+Food Serving Size Power Time the centre of turntable. Keep in microwave oven during
+Baby Food 190 g 600 W 30 sec. standing time and stir well. Stand for 1-2 minutes.
+(Vegetables + Instructions Soup (Chilled) 250-350 g 800 W 3-4
+Meat) Empty into ceramic deep plate. Cook covered. Stir after Instructions
+cooking time. Before serving, stir well and check the Pour into a deep ceramic plate or deep ceramic bowl.
+temperature carefully. Stand for 2-3 minutes. Cover with plastic lid.
+Stir well after reheating. Stir again before serving.
+Stand for 2-3 minutes.
+English - 40
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 4400 1144//77//22002233 1122::4488::1188 PPMM
+
+English - 41
+06
+COOKING
+GUIDE
+Check the food occasionally to make sure that it does not feel warm.
+Food Serving Size Power Time (min.)
+If smaller and thinner parts of the frozen food start to warm up, they can be
+Stew (Chilled) 350 g 600 W 4½-5½
+shield by wrapping very small strips of aluminium foil around them during
+Instructions defrosting.
+Put stew in a deep ceramic plate. Cover with plastic lid.
+Should poultry start to warm up on the outer surface, stop thawing and allow
+Stir occasionally during reheating and again before
+it to stand for 20 minutes before continuing.
+standing and serving. Stand for 2-3 minutes.
+Leave the fish, meat and poultry to stand in order to complete defrosting. The
+Pasta with 350 g 600 W 4-5
+standing time for complete defrosting will vary depending on the quantity
+Sauce (Chilled) Instructions defrosted. Please refer to the table below.
+Put pasta (e.g. spaghetti or egg noodles) on a flat
+Hint : Flat food defrosts better than thick and smaller quantities need
+ceramic plate. Cover with microwave cling film. Stir
+less time than bigger ones. Remember this hint while freezing
+before serving.
+and defrosting food.
+Stand for 3 minutes.
+For defrosting of frozen food with a temperature of about -18 to -20 °C, use
+Filled Pasta 350 g 600 W 5-6
+the following table as a guide.
+with Sauce Instructions
+(Chilled) Put filled pasta (e.g. ravioli, tortellini) in a deep ceramic Food Serving Size Power Time (min.)
+plate. Cover with plastic lid. Stir occasionally during
+Meat
+reheating and again before standing and serving. Stand
+Minced Meat 250 g 180 W 5-6½
+for 3 minutes.
+500 g 10-12
+Plated Meal 350 g 600 W 5½-6½
+(Chilled) 6½-7½ Pork Steaks 250 g 180 W 5-7
+Instructions Instructions
+Plate a meal of 2-3 chilled components on a ceramic Place the meat on a flat ceramic plate. Shield thinner
+dish. edges with aluminium foil. Turn over after half of
+Cover with microwave cling-film. Stand for 3 minutes. defrosting time! Stand for 15-30 minutes.
+Poultry
+MANUAL DEFROSTING
+Chicken Pieces 500 g (2 pcs) 180 W 12-14
+Microwaves are an excellent way of defrosting frozen food. Microwaves
+gently defrost frozen food in a short period of time. This can be of great Whole Chicken 1200 g 180 W 28-32
+advantage, if unexpected guests suddenly show up. Instructions
+Frozen poultry must be thoroughly thawed before cooking. Remove any First, put chicken pieces first skin-side down, whole
+metal ties and take it out of any wrapping to allow thawed liquid to drain chicken first breast-side-down on a flat ceramic plate.
+away. Shield the thinner parts like wings and ends with
+aluminium foil. Turn over after half of defrosting time!
+Put the frozen food on a dish without cover. Turn over half way, drain off any
+Stand for 15-60 minutes.
+liquid and remove any giblets as soon as possible.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 4411 1144//77//22002233 1122::4488::1188 PPMM
+
+GRILL
+The grill-heating element is located underneath the ceiling of the cavity. It
+Food Serving Size Power Time (min.)
+operates while the door is closed and the turntable is rotating. The turntable’s
+Fish rotation makes the food brown more evenly. Preheating the grill for 3-4
+minutes will make the food brown more quickly.
+Fish Fillets 200 g 180 W 5-7
+400 g 10-12 Cookware for grilling:
+Should be flameproof and may include metal. Do not use any type of plastic
+Instructions
+cookware, as it can melt.
+Put frozen fish in the middle of a flat ceramic plate.
+Food suitable for grilling:
+Arrange the thinner parts under the thicker parts.
+Chops, sausages, steaks, hamburgers, bacon and gammon rashers, thin fish
+Shield narrow ends with aluminium foil. Turn over
+portions, sandwiches and all kinds of toast with toppings.
+after half of defrosting time! Stand for 5-25 minutes.
+Important remark:
+Fruits
+Please remember that food must be placed on the high rack, unless another
+Berries 300 g 180 W 5-7 instruction is recommended.
+Instructions MICROWAVE + GRILL
+Distribute fruits on a flat, round glass dish (with a
+This cooking mode combines the radiant heat that is coming from the grill
+large diameter). Stand for 5-10 minutes.
+with the speed of microwave cooking. It operates only while the door is
+Bread closed and the turntable is rotating. Due to the rotation of the turntable, the
+food browns evenly. Three combination modes are available with this model:
+Bread Rolls (Each 2 pcs 180 W 1-1½
+600 W + Grill, 450 W + Grill and 300 W + Grill.
+about 50 g) 4 pcs 2½-3
+Cookware for cooking with microwave + grill
+Toast/Sandwich 250 g 180 W 4-4½ Please use cookware that microwaves can pass through. Cookware should be
+flameproof. Do not use metal cookware with combination mode. Do not use
+German Bread 500 g 180 W 8-10 any type of plastic cookware, as it can melt.
+(Wheat + Rye Instructions Food suitable for microwave + grill cooking:
+Flour) Arrange rolls in a circle or bread horizontally on Food suitable for combination mode cooking include all kinds of cooked food
+kitchen paper in the middle of turntable. Turn over which need reheating and browning (e.g. baked pasta), as well as foods which
+after half of defrosting time! Stand for 5-20 minutes. require a short cooking time to brown the top of the food. Also, this mode
+can be used for thick food portions that benefit from a browned and crispy
+top (e.g. chicken pieces, turning them over half way through cooking). Please
+refer to the grill table for further details.
+Important remark:
+The food should be placed on the high rack, unless another instruction is
+recommended. Otherwise it has to be placed directly on the turntable. Please
+refer to the instructions in the following chart.
+The food must be turned over, if it is to be browned on both sides.
+English - 42
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 4422 1144//77//22002233 1122::4488::1188 PPMM
+
+English - 43
+06
+COOKING
+GUIDE
+Grill Guide for fresh food
+Preheat the grill with the grill-function for 3-4 minutes. Serving 1 step 2 step
+Fresh Food Power
+Use the power levels and times in this table as guide lines for grilling. Size (min.) (min.)
+Use oven gloves when taking out.
+Gratin 450 g 450 W + 10-12 -
+Serving 1 step 2 step Potatoes/ Grill
+Fresh Food Power
+Size (min.) (min.) Vegetables Instructions
+Toast Slices 4 pcs Grill only 2-3 2-3 (Chilled) Put the fresh gratin into a small glass pyrex dish. Put
+(each 25 g) the dish on the high rack. After cooking stand for 2-3
+minutes.
+Instructions
+Put the toast slices side by side on the rack. Baked Apples 2 apples 300 W + 7-8 -
+(ca.400 g) Grill
+Grilled 400 g (2 300 W + 5-6 -
+Tomatoes pcs) Grill Instructions
+Brush the lamb chops with oil and spices. Lay them in a
+Instructions
+circle on the rack. After grilling stand for 2-3 minutes.
+Cut tomatoes into halves. Put some cheese on top.
+Arrange in a circle in a flat glass pyrex dish. Place it on Chicken Pieces 500 g (2 300 W + 12-14 10-13
+the high rack. pcs) Grill
+Stand for 2-3 minutes. Instructions
+Tomato- 4 pcs (300 300 W + 6-7 - Brush chicken pieces with oil and spices. Put them in
+Cheese Toast g) Grill a circle on the high rack. After grilling stand for 2-3
+minutes
+Instructions
+Toast the bread slices first. Put the toast with topping on Roast Fish 400-500 g 300 W + 5-7 5½-6½
+the high rack. Stand for 2-3 minutes. Grill
+Toast Hawaii 4 pcs (500 300 W + 5-6 - Instructions
+(Ham, g) Grill Brush skin of whole fish with oil and add herbs and
+spices. Put two fishes side by side (head to tail) on the
+Pineapple, Instructions
+high rack. After grilling stand for 2-3 minutes.
+Cheese Slices) Toast the bread slices first. Put the toast with topping on
+the high rack. Stand for 2-3 minutes.
+Baked 500 g 600 W + 8-10 -
+Potatoes Grill
+Instructions
+Cut potatoes into halves. Put them in a circle on the high
+rack with the cut side to the grill.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 4433 1144//77//22002233 1122::4488::1188 PPMM
+
+CONVECTION
+Cooking with convection is the traditional and well known method of cooking
+Serving 1 step 2 step
+food in a traditional oven with hot air. Fresh food Power
+Size (min.) (min.)
+Cookware for convection cooking:
+All conventional ovenproof cookware, baking tins and sheets – anything you Pasta
+would normally use in a traditional convection oven – can be used.
+Frozen 400 g 1 step: 450 W + 22-25 3-5
+Food suitable for convection cooking: Lasagne 200 °C
+All biscuits, individual scones, rolls and cakes should be made by this mode as
+2 step: Only grill
+well as rich fruit cakes, choux pastry and soufflés.
+Instructions
+MICROWAVES +CONVECTION Put into a suitable sized glass pyrex dish or leave in the
+original packaging (take care that this is suitable for
+This mode combines the microwave energy with the hot air and is therefore
+microwaves and oven heat). Put frozen lasagne on the
+reducing the cooking time while giving the food a brown and crispy surface.
+low rack. After cooking stand for 2-3 minutes.
+Cooking with convection is the traditional and well known method of cooking
+food in an oven with hot air circulated by a fan on the back-wall. Meat
+Cookware for cooking with microwaves + convection: Roast Lamb 1000-1200 600 W + 160 °C 15-20 10-13
+Should be able to let the microwaves pass through. Should be ovenproof (Medium) g
+(like glass, pottery or china without metal trims); similar to the cookware
+Instructions
+described under MW + Grill.
+Brush lamb with oil and spice it with pepper, salt and
+Food suitable for microwave + convection cooking:
+paprika. Put it on the low rack, first with the fat side
+All kinds of meats and poultry as well as casseroles and gratin dishes, sponge
+down. After cooking wrap in aluminium foil and stand for
+cakes and light fruit cakes, pies and crumbles, roast vegetables, scones and
+breads. 10–15minutes.
+Roast Chicken 1000-1300 450 W + 200 °C 20-25 18-23
+Convection Guide for fresh and frozen food
+g
+Preheat the convection with the auto pre-heat function to the desired
+Instructions
+temperature. Use the power levels and times in this table as guide lines for
+Brush chicken with oil and spices. Put chicken first breast
+convection cooking. Use oven gloves when taking out.
+side down, second side breast side up on the low rack.
+Stand for 5 minutes.
+Serving 1 step 2 step
+Fresh food Power
+Size (min.) (min.)
+Pizza
+Frozen Pizza 300-400 g 450 W + 200 °C 11-12 -
+(Ready baked) Instructions
+Place the pizza on the low rack.
+After baking stand for 2-3 minutes.
+English - 44
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 4444 1144//77//22002233 1122::4488::1188 PPMM
+
+English - 45
+06
+COOKING
+GUIDE
+TIPS AND TRICKS
+Serving 1 step 2 step MELTING BUTTER
+Fresh food Power
+Size (min.) (min.) Put 50g butter into a small deep glass dish. Cover with plastic lid.
+Heat for 30-40 seconds using 800 W, until butter is melted.
+Bread
+MELTING CHOCOLATE
+Fresh Bread 4-5 pcs 100 W + 180 °C 9-11 -
+Put 100 g chocolate into a small deep glass dish. Rolls (250 g)
+Heat for 3-5 minutes, using 450 W until chocolate is melted.
+Instructions Stir once or twice during melting. Use oven gloves while taking out!
+Put bread rolls in a circle on the low rack. Stand 2-3
+MELTING CRYSTALLIZED HONEY
+minutes.
+Put 20 g crystallized honey into a small deep glass dish.
+Garlic Bread 200 g (1 pc) 100 W + 200 °C 10-12 -
+Heat for 20-30 seconds using 300 W, until honey is melted.
+(Chilled, Instructions
+MELTING GELATINE
+Prebaked) Put the chilled baguette on baking paper on the low rack.
+Lay dry gelatine sheets (10 g) for 5 minutes into cold water.
+After baking stand for 2-3 minutes.
+Put drained gelatine into a small glass pyrex bowl.
+Cake Heat for 1 minute using 300 W.
+Apple Cake 500 g Only 180 °C 40-45 - Stir after melting.
+(Fresh Dough) Instructions COOKING GLAZE/ICING (FOR CAKE AND GATEAUX)
+Put the fresh dough in a small rectangular black metal Mix instant glaze (approximately 14 g) with 40 g sugar and 250 ml cold
+baking dish (length 25 cm). Put the cake on the low rack. water.
+After baking stand for 5-10 minutes. Cook uncovered in a glass pyrex bowl for 3½ to 4½ minutes using 800 W,
+until glaze/icing is transparent. Stir twice during cooking.
+Mini Muffins 8 x 30 g Only 180 °C 17-23 -
+(Fresh Dough) (200-250 g) COOKING JAM
+Instructions Put 600 g fruits (for example mixed berries) in a suitable sized glass pyrex
+Fill the fresh dough evenly in paper muffin dishes. Put bowl with lid. Add 300 g preserving sugar and stir well.
+the dishes on the low rack. After baking stand for 5 Cook covered for 10-12 minutes using 800 W.
+minutes. Stir several times during cooking. Empty directly into small jam glasses with
+twist-off lids. Stand on lid for 5 minutes.
+Frozen Puff 250-300 g Only 180 °C 23-28 -
+Pastries, Filled Instructions COOKING PUDDING/CUSTARD
+Mix pudding powder with sugar and milk (500 ml) by following the
+Put the pastry snacks on the low rack.
+manufacturers instructions and stir well. Use a suitable sized glass pyrex
+Frozen Cake 500 g 180 W + 160 °C 12-15 - bowl with lid. Cook covered for 6½ to 7½ minutes using 800 W.
+Instructions Stir several times well during cooking.
+Put the frozen cake directly on the low rack. After defrost BROWNING ALMOND SLICES
+and warming stand for 15-20 minutes. Spread 30 g sliced almonds evenly on a medium sized ceramic plate.
+Stir several times during browning for 3½ to 4½ minutes using 600 W.
+Let it stand for 2-3 minutes in the oven. Use oven gloves while taking out!
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 4455 1144//77//22002233 1122::4488::1188 PPMM
+
+troubleshooting
+You may encounter a problem using the oven. In that case, first check Problem Cause Action
+the table below and try the suggestions. If a problem persists, or if any
+The power The oven has been After cooking for an
+information code keeps appearing on the display, contact a local Samsung
+service centre. turns off during cooking for an extended extended period of time,
+operation. period of time. let the oven cool.
+CHECKPOINTS The cooling fan is not Listen for the sound of
+If you encounter a problem with the oven, first check the table below and try working. the cooling fan.
+the suggestions. Trying to operate the oven Put food in the oven.
+without food inside.
+Problem Cause Action
+There is not sufficient There are intake/exhaust
+General
+ventilation space for the outlets on the front
+The buttons Foreign matter may Remove the foreign oven. and rear of the oven
+cannot be be caught between the matter and try again. for ventilation. Keep
+pressed properly. buttons. the gaps specified in
+For touch models: Wipe the moisture from the product installation
+Moisture is on the the exterior. guide.
+exterior. Several power plugs are Designate only one
+Child lock is activated. Deactivate Child lock. being used in the same socket to be used for the
+socket. oven.
+The time is not Power is not supplied. Make sure power is
+displayed. supplied. There is no Power is not supplied. Make sure power is
+power to the supplied.
+The Eco (power-saving) Turn off the Eco function.
+function is set. oven.
+The oven does Power is not supplied. Make sure power is There is a Cooking sealed food or Do not use sealed
+not work. supplied. popping sound using a container with a containers as they may
+during operation, lid may causes popping burst during cooking
+The door is open. Close the door and try
+and the oven sounds. due to expansion of the
+again.
+doesn't work. contents.
+The door open safety Remove the foreign
+mechanisms are covered matter and try again.
+in foreign matter.
+The oven The user has opened the After turning over the
+stops while in door to turn food over. food, press the Start
+operation. button again to start
+operation.
+English - 46
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 4466 1144//77//22002233 1122::4488::1188 PPMM
+
+English - 47
+07
+TROUBLESHOOTING
+Problem Cause Action Problem Cause Action
+The oven There is not sufficient Keep the gaps specified The warm The oven may not work, Put one cup of water in a
+exterior is too ventilation space for the in the product installation function does too much food is being microwave-safe container
+hot during oven. There are intake/ guide. not work. cooked, or improper and run the microwave
+operation. exhaust outlets on the cookware is being used. for 1-2 minutes to check
+front and rear of the oven whether the water is
+for ventilation. heated. Reduce the
+Objects are on top of the Remove all objects on amount of food and start
+oven. the top of the oven. the function again. Use a
+The door cannot Food residue is stuck Clean the oven and then cooking container with a
+be opened between the door and open the door. flat bottom.
+properly. oven interior. The thaw The oven may not work, Put one cup of water in a
+function does too much food is being microwave-safe container
+The oven does The oven may not work, Put one cup of water in a
+not work. cooked, or improper and run the microwave
+not heat. too much food is being microwave-safe container
+cookware is being used. for 1-2 minutes to check
+cooked, or improper and run the microwave
+whether the water is
+cookware is being used. for 1-2 minutes to check
+heated.
+whether the water is
+Reduce the amount
+heated. Reduce the
+of food and start the
+amount of food and start
+function again. Use a
+the function again. Use a
+cooking container with a
+cooking container with a
+flat bottom.
+flat bottom.
+The interior light The door has been left The interior light may
+Heating is weak The oven may not work, Put one cup of water in a
+is dim or does open for a long time. automatically turn off
+or slow. too much food is being microwave-safe container
+not turn on. when the Eco function
+cooked, or improper and run the microwave
+operates. Close and
+cookware is being used. for 1-2 minutes to check
+reopen the door or press
+whether the water is
+the "Cancel" button.
+heated.
+Reduce the amount The interior light is Clean the inside of the
+of food and start the covered by foreign matter. oven and check again.
+function again.
+Use a cooking container
+with a flat bottom.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 4477 1144//77//22002233 1122::4488::1199 PPMM
+
+Problem Cause Action Problem Cause Action
+A beeping sound If the Auto Cook function After turning over the There is water There may be water or Let the oven cool and
+occurs during is being used, this beeping food, press the Start left in the oven. steam in some cases then wipe with a dry dish
+cooking. sound means it's time to button again to restart depending on the food. towel.
+turn over the food during operation. This is not an oven
+thawing. malfunction.
+The oven is not The oven is installed on an Make sure the oven is The brightness Brightness changes Power output changes
+level. uneven surface. installed on flat, stable inside the oven depending on power during cooking are not
+surface. varies. output changes according malfunctions.
+There are sparks Metal containers are used Do not use metal to function. This is not an oven
+during cooking. during the oven/thawing containers. malfunction.
+functions. Cooking is To ventilate the oven, the This is not an oven
+When power The door is not properly Close the door and check finished, but the cooling fan continues to malfunction.
+is connected, closed. again. cooling fan is run for about 5 minutes
+the oven still running. after cooking is complete.
+immediately Pressing the This happens when the The microwave oven is
+starts to work. +30sec button oven was not operating. designed to operate by
+There is The power or power Make sure the power operates the pressing the +30 sec
+electricity socket is not properly and power socket are oven. button when it was not
+coming from the grounded. properly grounded. operating.
+oven. Turntable
+There is water There may be water or Let the oven cool and While turning, There is no roller ring, Install the roller ring and
+dripping. steam in some cases then wipe with a dry dish the turntable or the roller ring is not then try again.
+depending on the food. towel. comes out of properly in place.
+This is not an oven
+place or stops
+malfunction.
+turning.
+Steam leaks from There may be water or Let the oven cool and
+The turn table The roller ring is not Adjust the amount of
+the door. steam in some cases then wipe with a dry dish
+drags while properly in place, there food and do not use
+depending on the food. towel.
+turning. is too much food, or the containers that are too
+This is not an oven
+container is too large and large.
+malfunction.
+touches the inside of the
+microwave.
+English - 48
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 4488 1144//77//22002233 1122::4488::1199 PPMM
+
+English - 49
+07
+TROUBLESHOOTING
+Problem Cause Action Problem Cause Action
+The turn table Food residue is stuck to Remove any food residue There is a Plastic or non heat- Use glass cookware
+rattles while the bottom of the oven. stuck to the bottom of burning or resistant cookware is suitable for high
+turning and is the oven. plastic smell used. temperatures.
+noisy. when using the
+Grill oven.
+Smoke comes out During initial operation, This is not a malfunction, There is a bad Food residue or plastic Use the steam function
+during operation. smoke may come from the and if you run the oven smell coming has melted and stuck to and then wipe with a
+heating elements when 2-3 times, it should stop. from inside the the interior. dry cloth. You can put a
+you first use the oven. oven. lemon slice inside and
+run the oven to remove
+Food is on the heating Let the oven cool
+the odour more quickly.
+elements. and then remove the
+food from the heating The oven The oven door is Do not frequently open
+elements. does not cook frequently opened during the door unless you
+Food is too close to the Put the food a suitable properly. cooking. are cooking things that
+need to be turned. If you
+grill. distance away while
+open the door often, the
+cooking.
+interior temperature will
+Food is not properly Make sure food is
+be lowered and this may
+prepared and/or arranged. properly prepared and
+affect the results of your
+arranged.
+cooking.
+Oven
+The oven controls are not Correctly set the oven
+The oven does The door is open. Close the door and try correctly set. controls and try again.
+not heat. again. The grill or other Correctly insert the
+Smoke comes During initial operation, This is not a malfunction, accessories are not accessories.
+out during smoke may come from the and if you run the oven correctly inserted.
+preheating. heating elements when 2-3 times, it should stop. The wrong type or size of Reset the oven controls
+you first use the oven. cookware is used. or use suitable cookware
+Food is on the heating Let the oven cool with flat bottoms.
+elements. and then remove the
+food from the heating
+elements.
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 4499 1144//77//22002233 1122::4488::1199 PPMM
+
+INFORMATION CODES technical specifications
+If the oven fails to operate, you may see an information code on the display.
+SAMSUNG strives to improve its products at all times. Both the design
+Check the table below and try the suggestions.
+specifications and these user instructions are thus subject to change without
+Code Description Action notice.
+C-20 The temperature sensor is Unplug the power cord of CE76JD1, CE76JD-B1, CE76JD-CR1,
+open. the oven, and contact a local Model CE76JD-MB1, CE76JD-MBR
+The temperature sensor is Samsung service centre.
+short. Power source 230 V ~ 50 Hz AC
+C-21 This code appears when the Unplug the power cord for
+Power consumption
+oven temperature high. In cooling enough time, and restart
+case the temperature rises the microwave oven. Maximum power 2350 W
+over the limit temperature Microwave 1200 W
+during operation of each Grill (heating element) 1100 W
+mode. (Fire sensed.) Convection (heating element) Max. 1700 W
+C-d0 The touch key is Unplug the power cord for
+Output power 100 W / 800 W - 6 levels (IEC-705)
+malfunction. cooling enough time, and clean
+the button. (Dust, Water) When Operating frequency 2450 MHz
+appear same problem, contact a
+local Samsung service centre. Magnetron OM75P (31)
+Cooling method Cooling fan motor
+Dimensions (W x H x D)
+Outside (Include Handle) 489 x 282 x 444 mm
+Oven cavity 330 x 211 x 309 mm
+Volume 0.7 Cubic feet / 21 liter
+Weight
+Net 15.00 kg approx.
+English - 50
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 5500 1144//77//22002233 1122::4488::1199 PPMM
+
+08
+TECHNICAL
+SPECIFICATIONS
+memo memo
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 5511 1144//77//22002233 1122::4488::1199 PPMM
+
+QUESTIONS OR COMMENTS?
+COUNTRY / COUNTRY /
+CALL OR VISIT US ONLINE AT CALL OR VISIT US ONLINE AT
+LOCATION LOCATION
+CHINA 400-810-5858 www.samsung.com/cn/support CAMBODIA 1800-20-3232 (Toll free) www.samsung.com/th/support
+0800-32-9999 (All Product) LAOS +856-214-17333 www.samsung.com/th/support
+TAIWAN www.samsung.com/tw/support
+0809-00-5237 (B2B / Dealer)
+1800-88-9999 (OTH)
+MALAYSIA www.samsung.com/my/support
+3698 4698 (All Product) www.samsung.com/hk/support (Chinese) +603-7713 7420 (Overseas contact)
+HONG KONG
+3698 4688 (B2B ) www.samsung.com/hk_en/support (English)
+021-5699-7777
+www.samsung.com/hk/support (Chinese) INDONESIA 0800-112-8888 (All Product, Toll Free) www.samsung.com/id/support
+MACAU 0800 333
+www.samsung.com/hk_en/support (English) 0800-112-7777 (All Product, Toll Free)
+SINGAPORE 1800 7267864 | 1800-SAMSUNG (Other) www.samsung.com/sg/support All Products :
+1-800-10-7267864 [PLDT-Toll Free ]
+AUSTRALIA 1300 362 603 (Other) www.samsung.com/au/support PHILIPPINES 1-800-8-7267864 [Globe-Toll Free ] www.samsung.com/ph/support
+84222111 [Landline ]
+NEW ZEALAND 0800 726 786 (All Product) www.samsung.com/nz/support
+JAPAN 0120-363-905 www.galaxymobile.jp/jp/support
+By English:
+Toll free numbers: 1800 5 SAMSUNG (1800 5 7267864)
+_ 1800 588 889 (All Product) (Toll-Free)
+VIETNAM Hotline: (028)73056888 www.samsung.com/vn/support INDIA 1800 40 SAMSUNG (1800 40 7267864) www.samsung.com/in/support
+By Vietnamese: (Toll-Free)
+Tổng đài miễn phí cước gọi:
+_ 1800 588 889 (tất cả sản phẩm) 16600172667 (Toll Free for NTC Only)
+NEPAL www.samsung.com/in/support
+Đường dây nóng: (028)73056888 9801572667 (Toll Free for Ncell users)
+Hotline no : 1282 08000-300-300 (Toll free)
+THAILAND www.samsung.com/th/support BANGLADESH www.samsung.com/bd/support
+1800-29-3232 (Toll free for all product) 09612-300-300
+MYANMAR +95-1-2399-888 www.samsung.com/mm/support SRI LANKA 011 SAMSUNG (011 7267864) www.samsung.com/in/support
+DE68-04168K-01
+DDEE6688--0044116688KK--0011__GGIIAANNTT__EENN__AAdddd mmooddeell ccooddee..iinndddd 5522 1144//77//22002233 1122::4488::1199 PPMM
+

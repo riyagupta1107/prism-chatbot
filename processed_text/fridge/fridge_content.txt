@@ -1,0 +1,247 @@
+120 Months on Compressor 240 Months on Digital invertor Compressor
+5 Years Warranty on Semi Automatic Wash Motor
+20 Years Warranty on Digital Inverter Motor
+10 Years Warranty on AC motor with Wobble Pulsator
+20 Years Warranty on Digital Inverter Motor (In Case of Front Load)
+
+Setting the Temperature in Samsung Frost Free Refrigerator
+
+General Temperature Ranges:
+In the freezer, the temperature can be set from -15°C to -23°C.
+In the fridge, the temperature can be set from 1°C to 7°C.
+
+Recommended Seasonal Settings:
+
+Winter Season: Set the freezer to -15°C and the fridge to 7°C.
+
+Monsoon Season: Set the freezer to -19°C and the fridge to 3°C.
+
+Summer Season: Set the freezer to -23°C and the fridge to 1°C.
+
+Note on Vacation Mode:
+Turn off Vacation mode if it's turned on, as it may cause a lack of cooling. To deactivate Vacation mode, you may need to press and hold the corresponding button for three seconds or press the Fridge button until the Vacation mode indicator turns off, depending on the model.
+
+Smart Convertible (5 in 1) Refrigerator Modes
+The Smart Convertible 5-in-1 Refrigerator, powered by Twin Cooling Plus technology, allows the freezer to convert into a fridge with five different modes.
+
+Normal Mode: This is the default mode. The top compartment acts as a freezer and the lower compartment acts as a refrigerator. You can change the temperature settings as needed. The Freezer button sets the freezer temperature between -15°C and -23°C. The Fridge button sets the fridge temperature between 1°C and 7°C.
+
+Seasonal Mode: This mode switches off the freezer when you don't need it, while the fridge continues to work. To set this mode, press and hold the Freezer Convert button for 3 seconds to enter selection mode, then press the Freezer Convert button again to select OFF mode.
+
+Extra Fridge Mode: This mode converts the freezer into an additional fridge compartment for extra storage. Both top and bottom compartments will work as a fridge, maintaining a temperature between 1°C and 7°C. To set this mode, press and hold the Freezer Convert button for 3 seconds, then press the Freezer button again to select fridge mode.
+
+Vacation Mode: This mode keeps the freezer ON while the fridge is switched to a low-power mode, maintaining a temperature of 17°C. To activate, press the Fridge button repeatedly until the Vacation indicator turns on. The fridge temperature display will turn off, but the freezer remains active.
+
+Home Alone Mode: This mode is for when you don't have a lot to store. It switches off the main fridge compartment and converts the freezer section into a fridge. To activate, press the Fridge button repeatedly until the Home Alone indicator turns on, then press and hold the Freezer Convert button for 3 seconds.
+
+Adjusting the Freezer Temperature with a Controller Knob:
+
+If food in the refrigerator is frozen (typically during winter), set the Freezer temperature controller to a scale of 1 to 3.
+
+When the room temperature is high (typically during summer), set the Freezer temperature controller to a scale of 8 to 9.
+
+When the room temperature is normal (spring or autumn), set the controller to the "Normal" position.
+
+Troubleshooting: Refrigerator Panel or Touch Screen Not Working
+
+1. Check if the Panel is Locked:
+The most common cause is the lock feature being engaged (e.g., Child Lock, Control Lock).
+
+For SBS refrigerator model RS554NRUA, press and hold the Child Lock button for three seconds to activate or deactivate it.
+
+For French Door refrigerator model RF858Q/RFG, press and hold the Lighting button for three seconds to activate or deactivate the Child Lock.
+
+2. Power Cycle the Refrigerator:
+Unplug the refrigerator or turn off the power at the circuit breaker for 60 seconds, then restore power. For Family Hub models, use the dedicated power switch located at the inside top of the top-right door.
+
+3. Request Service:
+If the issue persists, visit the Support Center to request service.
+
+Refrigerator Functions
+
+Power Cool Function:
+The Power Cool feature quickly chills food. With one touch, cold air is blown into the fridge to temporarily lower the interior temperature to 1°C, keeping food fresher for longer and rapidly chilling drinks.
+
+Solving No Cooling Issues:
+For information on how to solve no cooling issues, please refer to official Samsung support documentation.
+
+Moisture Prevention Tips
+
+1. Placement of Refrigerator:
+
+Keep the refrigerator away from direct sunlight.
+
+Allow sufficient space for air flow: a minimum of 300 mm of free space at the sides, 150mm at the back, and at least 300mm at the top.
+
+Do not place the refrigerator directly in front of an air cooler, under a fan, or in a high humidity area.
+
+2. Correct Temperature Settings for Monsoon Season:
+
+Frost Free / Side by Side: Keep the freezer at -19°C and the fridge at 3°C.
+
+Direct Cool: Keep the temperature control knob between 3 and 4.
+
+Digi-touch Cool: Keep the control level at 3 or 4, the Monsoon position.
+
+3. Food and Utensil Placement:
+
+Store food in an organized manner to ensure adequate air circulation.
+
+Do not place hot food directly inside; let it cool to room temperature first.
+
+Use mesh bags to store fruits and vegetables.
+
+Always keep food covered with a lid.
+
+4. Avoid Using Covers:
+
+Using shelf covers may block air circulation.
+
+Do not use external covers on top of refrigerators.
+
+5. Door Usage:
+
+Make sure the refrigerator door is properly closed to prevent warm air from entering.
+
+Avoid frequent opening of the refrigerator door.
+
+Id: 1
+Product: samsung-fridge
+Issue: Not cooling (fridge compartment)
+Solution: Check power and outlet; make sure doors are fully closed and seals are clean; check temperature settings; clean condenser coils; defrost if heavy frost; if still not cooling, run Samsung diagnostic or contact service.
+
+---
+
+Id: 2
+Product: samsung-fridge
+Issue: Freezer not freezing / freezer warm
+Solution: Verify temperature settings, avoid overfilling, check for blocked vents, ensure door seals are intact, clean condenser coils, run self-diagnostic and check error codes; call service if compressor fault suspected.
+
+---
+
+Id: 3
+Product: samsung-fridge
+Issue: Water leaking inside fridge or from bottom
+Solution: Inspect and clear defrost drain (unclog any ice/debris); check for blocked drain tube; ensure proper leveling; verify water line and filter connections; run manual drain clearing steps per Samsung guide.
+
+---
+
+Id: 4
+Product: samsung-fridge
+Issue: Water dispenser dripping
+Solution: Air in water line after filter change can cause dripping—flush system; check water line connector and filter seating; replace worn inlet valve or check water pressure.
+
+---
+
+Id: 5
+Product: samsung-fridge
+Issue: Ice maker not making ice
+Solution: Confirm ice maker is turned on; check water supply and filter; inspect fill tube for ice blockage; run ice maker reset cycle or force fill; replace faulty water inlet valve if necessary.
+
+---
+
+Id: 6
+Product: samsung-fridge
+Issue: Ice maker overfilling or ice maker keeps running
+Solution: Check ice bucket position and sensor/arm; inspect fill valve for overfilling; clear ice bridge; replace faulty water valve or sensor if needed.
+
+---
+
+Id: 7
+Product: samsung-fridge
+Issue: Excessive frost or ice buildup in freezer
+Solution: Check door seal and closure; avoid storing hot/warm items; defrost freezer and clear drain; inspect defrost heater and thermostat; run diagnostics for defrost failure.
+
+---
+
+Id: 8
+Product: samsung-fridge
+Issue: Fridge making loud or unusual noises
+Solution: Verify fridge is level; check for items touching the compressor or fan; inspect evaporator/condenser fans for obstruction; clean condenser and ensure proper airflow.
+
+---
+
+Id: 9
+Product: samsung-fridge
+Issue: Temperature fluctuates frequently
+Solution: Avoid frequent door openings; check door seals; ensure vents aren't blocked; confirm correct temperature settings; clean condenser and verify adequate clearance around unit.
+
+---
+
+Id: 10
+Product: samsung-fridge
+Issue: Door not sealing / gasket damaged
+Solution: Inspect gasket for cracks or debris; clean gasket surfaces; if damaged, replace gasket; adjust door hinges and leveling to ensure full closure.
+
+---
+
+Id: 11
+Product: samsung-fridge
+Issue: Fridge displays error codes or beeps
+Solution: Check Samsung support error-code guide for model-specific codes; run built-in diagnostic; note displayed code and follow Samsung troubleshooting steps or book service if indicated.
+
+---
+
+Id: 12
+Product: samsung-fridge
+Issue: Water filter causing low flow or tastes odd
+Solution: Replace water filter per manufacturer schedule; flush new filter per instructions; check water pressure and connectors.
+
+---
+
+Id: 13
+Product: samsung-fridge
+Issue: Door alarm beeping continuously
+Solution: Ensure door fully closed and gasket clean; check for obstructions; reset alarm from control panel; if persistent, inspect door switch.
+
+---
+
+Id: 14
+Product: samsung-fridge
+Issue: Fridge lights not working
+Solution: Check bulb and replace if needed; verify door switch operation and control board; consult manual for LED panel issues.
+
+---
+
+Id: 15
+Product: samsung-fridge
+Issue: Foul odour inside fridge
+Solution: Discard spoiled food, clean interior with baking-soda solution, remove and clean drawers, check and replace water filter if necessary; keep an open box of baking soda or activated charcoal to absorb smells.
+
+---
+
+Id: 16
+Product: samsung-fridge
+Issue: Ice or water dispenser not dispensing
+Solution: Check water supply line and valve; ensure filter not clogged; check dispenser actuator and wiring; run diagnostics and replace faulty inlet valve.
+
+---
+
+Id: 17
+Product: samsung-fridge
+Issue: Compressor runs constantly
+Solution: Check ambient temperature and ventilation; ensure condenser coils are clean; check door seals and frequent openings; if compressor overheats or runs abnormally, schedule service.
+
+---
+
+Id: 18
+Product: samsung-fridge
+Issue: Fridge vibrates or shakes
+Solution: Level the unit, move fridge slightly away from wall to prevent contact, check for loose components or items touching fans, and inspect mounting of condenser/compressor.
+
+---
+
+Id: 19
+Product: samsung-fridge
+Issue: Smart/Family Hub connectivity issues
+Solution: Restart the hub, check Wi‑Fi and network settings, update firmware/software from Samsung support, and reset network settings if necessary.
+
+---
+
+Id: 20
+Product: samsung-fridge
+Issue: Door ice/water buildup or frost in compartments
+Solution: Check door seals and vents, avoid storing uncovered liquids, ensure correct humidity settings, defrost if needed, and check defrost drain for clogs.
+
+---
+

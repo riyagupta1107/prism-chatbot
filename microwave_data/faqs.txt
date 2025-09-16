@@ -1,0 +1,361 @@
+Accessories available with Samsung microwave oven
+Depending on the model that you have purchased, you are supplied with several accessories that can be used in a variety of ways.
+
+1
+Roller ring
+Roller ring, to be placed in the centre of the oven.
+
+Purpose: The roller ring supports the turntable.
+
+roller ring
+2
+Turntable
+Turntable, to be placed on the roller ring with the centre fitting on to the coupler.
+
+Purpose: The turntable serves as the main cooking surface; it can be easily removed for cleaning.
+
+Turntable
+3
+High rack, Low rack
+High rack, Low rack, to be placed on the turntable.
+
+Purpose: The metal racks can be used to cook two dishes at the same time. A small dish may be placed on the turntable and a second dish on the rack. The metal racks can be used in grill, convection and combination cooking.
+
+high rock
+4
+Crusty plate
+This crusty plate allows you to brown food not only on the top with the grill, but also the bottom of the food turns crispy and brown due to the high temperature of the crusty plate.
+
+Purpose: The turntable serves as the main cooking surface; it can be easily removed for cleaning.
+
+Crusty plate
+
+Related Questions
+What is 'Power Defrost Feature' in a Samsung Microwave Oven?
+What is 'Deodorizer' in a Microwave Oven?
+Switching the beeper off in Samsung microwave oven
+
+
+
+Switching the beeper off in Samsung microwave oven
+
+Switching Beepers Off
+You can switch the beeper off whenever you want
+1. Press the START/+30s and STOP/ECO button at the same time.
+Result: The oven does not beep to indicate the end of a function.
+
+2. To switch the beeper back on, press the START/+30s and STOP/ECO button at the same time.
+Result: The oven operates normally.
+
+Related Questions
+What is 'Power Defrost Feature' in a Samsung Microwave Oven?
+Accessories available with Samsung microwave oven
+What is 'Deodorizer' in a Microwave Oven?
+
+
+Error code on Microwave display
+
+Frequently displayed information codes and solutions
+
+In most cases, the displayed information codes are not a malfunction and can be cleared with a reset. Check the codes and instructions below and try the suggestions. However, some information codes need additional steps to be cleared. If any codes keep appearing on the screen, contact a Samsung service center for further support.
+
+[
+  {
+    "id": 1,
+    "code": "C-d0",
+    "meaning": "Button problem. This displays when a button is pressed and held for a period of time.",
+    "solutions": [
+      "Clean the buttons and make sure there is no water on/around them.",
+      "Turn off the oven and try again."
+    ]
+  },
+  {
+    "id": 2,
+    "code": "S-01",
+    "meaning": "Safety shutoff. Oven has continued operating at a set temperature for an extended time period. Under 105°C: 16 hours, From 105°C to 240°C: 8 hours, From 245°C to max: 4 hours.",
+    "solutions": [
+      "This is not a system failure.",
+      "Turn off the oven and remove the food. Then try again normally."
+    ]
+  },
+  {
+    "id": 3,
+    "code": "dC / dE",
+    "meaning": "Divider check needed. If the divider is removed during cooking in Dual cook mode or inserted during cooking in Single cook mode.",
+    "solutions": [
+      "The divider must not be removed during cooking in Dual cook mode.",
+      "Turn off the oven and then restart.",
+      "If the problem continues, turn off the power for 30 seconds or more and then reconnect."
+    ]
+  },
+  {
+    "id": 4,
+    "code": "C-d1",
+    "meaning": "Door lock malfunctions.",
+    "solutions": [
+      "Turn off the oven and then restart.",
+      "If the problem continues, turn off the power for 30 seconds or more and then reconnect."
+    ]
+  },
+  {
+    "id": 5,
+    "code": "C-20 / C-21 / C-22",
+    "meaning": "Sensor malfunctions.",
+    "solutions": [
+      "Turn off the oven and then restart.",
+      "If the problem continues, turn off the power for 30 seconds or more and then reconnect."
+    ]
+  },
+  {
+    "id": 6,
+    "code": "C-F1",
+    "meaning": "Only occurs during EEPROM Read/Write.",
+    "solutions": [
+      "Turn off the oven and then restart.",
+      "If the problem continues, turn off the power for 30 seconds or more and then reconnect."
+    ]
+  },
+  {
+    "id": 7,
+    "code": "C-F0",
+    "meaning": "No communication between the main PCB and sub PCB.",
+    "solutions": [
+      "Turn off the oven and then restart.",
+      "If the problem continues, turn off the power for 30 seconds or more and then reconnect."
+    ]
+  },
+  {
+    "id": 8,
+    "code": "C-F2",
+    "meaning": "Communication problem between the Touch IC and Main or Sub micom.",
+    "solutions": [
+      "Turn off the oven and then restart.",
+      "If the problem continues, turn off the power for 30 seconds or more and then reconnect."
+    ]
+  },
+  {
+    "id": 9,
+    "code": "Pr E",
+    "meaning": "The oven is preheating. 'Pr E' will display until the temperature reaches the set value.",
+    "solutions": [
+      "When the temperature reaches the desired temperature, Pr E will disappear.",
+      "While preheating, keep the door closed."
+    ]
+  }
+]
+
+Related Questions
+What is 'Power Defrost Feature' in a Samsung Microwave Oven?
+Accessories available with Samsung microwave oven
+What is 'Deodorizer' in a Microwave Oven?
+
+
+Check out the information codes on my oven
+
+Frequently displayed information codes and solutions
+
+Code
+
+Meaning
+
+Solutions
+
+ 
+
+ 
+
+C-d0
+
+                                                                   
+
+Button problem
+
+Clean the buttons and make sure there is no water on/around them.
+
+Turn off the oven 30 seconds and try again.  if it appears again, call Samsung customer care
+
+S-01
+
+Safety shutoff
+
+Oven has continued operating at a set temperature for
+
+an extended time period.
+
+ 
+
+• Under  105°C: 16 hours
+• From 105°C to 240°C: 8 hours
+• From 245°C to max: 4 hours
+This is not a system failure.
+
+Turn off the oven and remove the food. Then try again normally.
+
+dC
+
+dE
+
+Divider check needed
+
+If the divider is removed during cooking in Dual cook mode. 
+
+If the divider is inserted during cooking in Single cook mode.
+
+The divider must not be removed during cooking in Dual cook mode.
+
+Turn off the oven and then restart.
+
+If the problem continues, turn off the power for 30 seconds
+
+or more and then reconnect. 
+
+C-d1
+
+Door lock malfunctions
+
+Turn off the oven and then restart.
+
+If the problem continues, turn off the power for 30 seconds
+
+or more and then reconnect.
+
+ 
+
+C-20
+
+                                                             
+
+Temperature sensor is needed to be check
+
+Press the Stop/Cancel and operate again.
+
+If it occurs again, turn off the microwave again over 30 seconds and try again. If it appears again, call on Samsung customer care. 
+
+ 
+
+C-21
+
+                                                             
+
+Temperature sensor detect higher temperature than setting temperature
+
+Turn off the oven for cooling the product and then try setting again.
+
+If it appears again, contact Samsung customer care.
+
+ 
+
+C-22
+
+                                                             
+
+Sensor malfunctions
+
+Turn off the oven and then restart.
+
+If the problem continues, turn off the power for 30 seconds
+
+or more and then reconnect. 
+
+Note:
+
+If you find an information code that is not listed on this page, please find a manual with the specific model number.
+It may have a different design and information code depending on the model. 
+If you are unable to clear any code from your oven, please contact the Samsung service center for further support. 
+Additional information codes
+error codes
+Code
+
+Meaning
+
+Solutions
+
+C-F1
+
+Only occurs during EEPROM Read/Write is not working
+
+Press the Stop/Cancel and operate again.
+
+If it occurs again, turn off the microwave again over 30 seconds and try again. If it appears again, call on Samsung customer care. 
+
+C-F0
+
+If there is no communication between the main PCB
+
+and sub PCB.
+
+Turn off the oven and then restart.
+
+If the problem continues, turn off the power for 30 seconds or more and then reconnect.
+
+C-F2
+
+The touch key is malfunction
+
+Press Stop and try again.
+
+Pr E
+
+This code means the oven is preheating.
+
+Pr E will display until the temperature is reached at the setting temperature. When the temperature reaches at the desired temperature, Pr E will disappear.
+
+While preheating, please keep the door closed.
+
+Note:
+
+If you find an information code that is not listed on this page, please find a manual with the specific model number.
+It may have a different information code depending on the model. 
+If you are unable to clear any code from your oven, please contact the Samsung service center for further support. 
+'----' on the display (Applicable models only)
+
+This code appears when you select the Grill function and set the temperature between 50°C and 250°C, or if you select Normal Cooking mode and set the temperature between Grill 1 and 3, you are asked to reset the temperature with a message and a beep.
+
+
+Related Questions
+What is 'Power Defrost Feature' in a Samsung Microwave Oven?
+Accessories available with Samsung microwave oven
+What is 'Deodorizer' in a Microwave Oven?
+
+
+
+
+
+What should I do if the microwave turntable does not work
+
+If the microwave spinner does not rotate, the food can heat unevenly. Please read the guide below to fix this.
+
+If you have installed it for the first time
+Remove all the packing materials inside the microwave oven. Install the roller ring and turntable. Check that the turntable rotates freely.
+
+microwave turntable
+Note: Do not operate the microwave oven without the roller ring and turntable.
+
+The turntable rattles while turning and is noisy
+Cause: Food residue is stuck on the bottom of the microwave oven.
+Solution: Clean and inspect the roller track.
+Food particles or other materials that are on the rollers or on the bottom of the microwave can also result in an unbalanced and noisy turntable.
+
+Step 1. Remove the turntable and roller wheel and clean them with warm, soapy water.
+
+Step 2. Clean the bottom of the microwave and roller track.
+
+clean the roller track
+Step 3. Dry all the parts thoroughly and reassemble.
+
+Step 4. Verify that the center of the turntable has a coupler that connects to the motor. If this is not positioned correctly, the turntable will not spin, and it will usually make a lot of noise.
+
+position the turntable correctly
+While turning, the turntable comes out of place or stops turning
+Cause: There is no roller ring, or the roller ring is not properly in place.
+Solution: Install the roller ring and then try again.
+The turntable drags while turning
+Cause: The roller ring is not properly in place, there is too much food, or the container is too large and touches the side walls of the microwave.
+Solution: Adjust the amount of food and do not use containers that are too large.
+Note: If the issue continues after verifying the above-mentioned solutions, please contact the Samsung service center.
+
+Related Questions
+What is 'Power Defrost Feature' in a Samsung Microwave Oven?
+Accessories available with Samsung microwave oven
+What is 'Deodorizer' in a Microwave Oven?
+
