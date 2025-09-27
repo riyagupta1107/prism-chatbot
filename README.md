@@ -39,8 +39,7 @@ prism-chatbot/
 │   └── requirements.txt  # Dependencies
 │
 ├── alternate/            # 🧪 Experimental custom LLM approach (incomplete)
-│   ├── model_attempt.py  # Early work on a model-specific Q&A bot
-│   └── notes.md          # Development notes / ideas
+│   └── model_attempt.py  # Early work on a model-specific Q&A bot
 │
 └── README.md             # 📖 You are here
 ```
@@ -108,7 +107,6 @@ This reflects a forward-looking exploration: “What if the chatbot could learn 
 ### 🛠️ Current Progress (in `alternate/`)
 
 * **`model_attempt.py`** → Early prototype script experimenting with generating responses directly from an LLM.
-* **`notes.md`** → Developer notes outlining potential architectures, experiments, and observations.
 * **Key Concepts Tried**:
 
   * Prompt engineering for model-specific Q&A.
