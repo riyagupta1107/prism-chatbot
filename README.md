@@ -4,7 +4,7 @@
 A smart chatbot system built using a **Retrieval-Augmented Generation (RAG) model** with **Pinecone** as the vector database.
 It is designed to answer queries related to items in a knowledge base with **fast, accurate, and context-aware responses**.
 
-This repository also contains an **experimental alternate approach** (WIP) where we explored building a custom LLM for model-related queries.
+This repository also contains an **experimental alternate approach** (Work In Progress) where we explored building a custom LLM for model-related queries.
 
 ---
 
