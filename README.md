@@ -1,4 +1,3 @@
-Below is a polished **README.md** you can put in the root of your `prism-chatbot` (adwik branch) repo. You can tweak names, formatting, or add badges/screenshots as you like.
 
 ```markdown
 # Prism-Chatbot 📡
