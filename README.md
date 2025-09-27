@@ -89,15 +89,48 @@ Once running, you can ask the chatbot **item-related queries**, and it will:
 3. Reply in natural language
 
 ---
+## 🧪 Work in Progress: Alternate LLM Approach
 
+In addition to the production-ready **RAG + Pinecone chatbot**, this repository also contains an **experimental project** under the `alternate/` folder.
+
+### 🌟 The Vision
+
+The idea behind this alternate approach is to **move beyond retrieval-based systems** and explore whether a **custom domain-focused LLM** could directly answer queries. Instead of always depending on Pinecone for context, this model aims to:
+
+* Handle **model-related technical queries** more natively.
+* Allow **fine-tuning and domain specialization**.
+* Explore the trade-offs between **retrieval-based vs. generative-only** solutions.
+
+This reflects a forward-looking exploration: “What if the chatbot could learn and answer intelligently on its own, without needing external lookups every time?”
+
+---
+
+### 🛠️ Current Progress (in `alternate/`)
+
+* **`model_attempt.py`** → Early prototype script experimenting with generating responses directly from an LLM.
+* **`notes.md`** → Developer notes outlining potential architectures, experiments, and observations.
+* **Key Concepts Tried**:
+
+  * Prompt engineering for model-specific Q&A.
+  * Structuring queries without Pinecone dependency.
+  * Testing response quality with smaller datasets.
+
+👉 While this path is still under construction, it highlights the team’s **curiosity and commitment to innovation**.
+The progress so far provides a solid foundation to build on — and the lessons learned here will feed back into improving the main chatbot.
+
+---
 ## 🌱 Future Scope
 
 * Enhance **alternate LLM project** for domain-specific Q&A.
 * Add **frontend UI** for better user interaction.
-* Explore **fine-tuning** for improved domain accuracy.
 * Support **multi-database backends** beyond Pinecone.
+* **Hybrid design** → Combine this LLM with lightweight embeddings for fallback retrieval.
+* **Fine-tuning experiments** → Train a smaller domain-specific model for faster, focused answers.
+* **Memory integration** → Enable multi-turn conversations with persistent context.
+* **Benchmarking** → Compare this approach against the RAG system to measure accuracy vs. flexibility.
 
 ---
 
 
-Would you like me to also add **badges (Python version, License, etc.) and a sample demo interaction block** so the README looks even more professional for GitHub?
+
+
